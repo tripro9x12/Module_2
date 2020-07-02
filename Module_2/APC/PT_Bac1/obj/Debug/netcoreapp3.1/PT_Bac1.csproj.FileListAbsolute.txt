@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\APC\PT_Bac1\obj\Debug\netcoreapp3.1\PT_Bac1.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\APC\PT_Bac1\obj\Debug\netcoreapp3.1\PT_Bac1.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\APC\PT_Bac1\obj\Debug\netcoreapp3.1\PT_Bac1.AssemblyInfo.cs
+D:\C0520G1\Module_2\APC\PT_Bac1\obj\Debug\netcoreapp3.1\PT_Bac1.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\APC\PT_Bac1\bin\Debug\netcoreapp3.1\PT_Bac1.exe
+D:\C0520G1\Module_2\APC\PT_Bac1\bin\Debug\netcoreapp3.1\PT_Bac1.deps.json
+D:\C0520G1\Module_2\APC\PT_Bac1\bin\Debug\netcoreapp3.1\PT_Bac1.runtimeconfig.json
+D:\C0520G1\Module_2\APC\PT_Bac1\bin\Debug\netcoreapp3.1\PT_Bac1.runtimeconfig.dev.json
+D:\C0520G1\Module_2\APC\PT_Bac1\bin\Debug\netcoreapp3.1\PT_Bac1.dll
+D:\C0520G1\Module_2\APC\PT_Bac1\bin\Debug\netcoreapp3.1\PT_Bac1.pdb
+D:\C0520G1\Module_2\APC\PT_Bac1\obj\Debug\netcoreapp3.1\PT_Bac1.dll
+D:\C0520G1\Module_2\APC\PT_Bac1\obj\Debug\netcoreapp3.1\PT_Bac1.pdb
+D:\C0520G1\Module_2\APC\PT_Bac1\obj\Debug\netcoreapp3.1\PT_Bac1.genruntimeconfig.cache
