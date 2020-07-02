@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\APC\tinhLaiSuat\bin\Debug\netcoreapp3.1\tinhLaiSuat.exe
+D:\C0520G1\Module_2\APC\tinhLaiSuat\bin\Debug\netcoreapp3.1\tinhLaiSuat.deps.json
+D:\C0520G1\Module_2\APC\tinhLaiSuat\bin\Debug\netcoreapp3.1\tinhLaiSuat.runtimeconfig.json
+D:\C0520G1\Module_2\APC\tinhLaiSuat\bin\Debug\netcoreapp3.1\tinhLaiSuat.runtimeconfig.dev.json
+D:\C0520G1\Module_2\APC\tinhLaiSuat\bin\Debug\netcoreapp3.1\tinhLaiSuat.dll
+D:\C0520G1\Module_2\APC\tinhLaiSuat\bin\Debug\netcoreapp3.1\tinhLaiSuat.pdb
+D:\C0520G1\Module_2\APC\tinhLaiSuat\obj\Debug\netcoreapp3.1\tinhLaiSuat.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\APC\tinhLaiSuat\obj\Debug\netcoreapp3.1\tinhLaiSuat.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\APC\tinhLaiSuat\obj\Debug\netcoreapp3.1\tinhLaiSuat.AssemblyInfo.cs
+D:\C0520G1\Module_2\APC\tinhLaiSuat\obj\Debug\netcoreapp3.1\tinhLaiSuat.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\APC\tinhLaiSuat\obj\Debug\netcoreapp3.1\tinhLaiSuat.dll
+D:\C0520G1\Module_2\APC\tinhLaiSuat\obj\Debug\netcoreapp3.1\tinhLaiSuat.pdb
+D:\C0520G1\Module_2\APC\tinhLaiSuat\obj\Debug\netcoreapp3.1\tinhLaiSuat.genruntimeconfig.cache
