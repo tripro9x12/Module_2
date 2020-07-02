@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\APC\showHello\bin\Debug\netcoreapp3.1\showHello.exe
+D:\C0520G1\Module_2\APC\showHello\bin\Debug\netcoreapp3.1\showHello.deps.json
+D:\C0520G1\Module_2\APC\showHello\bin\Debug\netcoreapp3.1\showHello.runtimeconfig.json
+D:\C0520G1\Module_2\APC\showHello\bin\Debug\netcoreapp3.1\showHello.runtimeconfig.dev.json
+D:\C0520G1\Module_2\APC\showHello\bin\Debug\netcoreapp3.1\showHello.dll
+D:\C0520G1\Module_2\APC\showHello\bin\Debug\netcoreapp3.1\showHello.pdb
+D:\C0520G1\Module_2\APC\showHello\obj\Debug\netcoreapp3.1\showHello.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\APC\showHello\obj\Debug\netcoreapp3.1\showHello.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\APC\showHello\obj\Debug\netcoreapp3.1\showHello.AssemblyInfo.cs
+D:\C0520G1\Module_2\APC\showHello\obj\Debug\netcoreapp3.1\showHello.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\APC\showHello\obj\Debug\netcoreapp3.1\showHello.dll
+D:\C0520G1\Module_2\APC\showHello\obj\Debug\netcoreapp3.1\showHello.pdb
+D:\C0520G1\Module_2\APC\showHello\obj\Debug\netcoreapp3.1\showHello.genruntimeconfig.cache
