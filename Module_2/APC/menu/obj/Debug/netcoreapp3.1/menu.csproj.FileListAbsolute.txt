@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\APC\menu\bin\Debug\netcoreapp3.1\menu.exe
+D:\C0520G1\Module_2\APC\menu\bin\Debug\netcoreapp3.1\menu.deps.json
+D:\C0520G1\Module_2\APC\menu\bin\Debug\netcoreapp3.1\menu.runtimeconfig.json
+D:\C0520G1\Module_2\APC\menu\bin\Debug\netcoreapp3.1\menu.runtimeconfig.dev.json
+D:\C0520G1\Module_2\APC\menu\bin\Debug\netcoreapp3.1\menu.dll
+D:\C0520G1\Module_2\APC\menu\bin\Debug\netcoreapp3.1\menu.pdb
+D:\C0520G1\Module_2\APC\menu\obj\Debug\netcoreapp3.1\menu.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\APC\menu\obj\Debug\netcoreapp3.1\menu.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\APC\menu\obj\Debug\netcoreapp3.1\menu.AssemblyInfo.cs
+D:\C0520G1\Module_2\APC\menu\obj\Debug\netcoreapp3.1\menu.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\APC\menu\obj\Debug\netcoreapp3.1\menu.dll
+D:\C0520G1\Module_2\APC\menu\obj\Debug\netcoreapp3.1\menu.pdb
+D:\C0520G1\Module_2\APC\menu\obj\Debug\netcoreapp3.1\menu.genruntimeconfig.cache
