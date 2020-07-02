@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\APC\Operator\bin\Debug\netcoreapp3.1\Operator.exe
+D:\C0520G1\Module_2\APC\Operator\bin\Debug\netcoreapp3.1\Operator.deps.json
+D:\C0520G1\Module_2\APC\Operator\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.json
+D:\C0520G1\Module_2\APC\Operator\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.dev.json
+D:\C0520G1\Module_2\APC\Operator\bin\Debug\netcoreapp3.1\Operator.dll
+D:\C0520G1\Module_2\APC\Operator\bin\Debug\netcoreapp3.1\Operator.pdb
+D:\C0520G1\Module_2\APC\Operator\obj\Debug\netcoreapp3.1\Operator.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\APC\Operator\obj\Debug\netcoreapp3.1\Operator.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\APC\Operator\obj\Debug\netcoreapp3.1\Operator.AssemblyInfo.cs
+D:\C0520G1\Module_2\APC\Operator\obj\Debug\netcoreapp3.1\Operator.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\APC\Operator\obj\Debug\netcoreapp3.1\Operator.dll
+D:\C0520G1\Module_2\APC\Operator\obj\Debug\netcoreapp3.1\Operator.pdb
+D:\C0520G1\Module_2\APC\Operator\obj\Debug\netcoreapp3.1\Operator.genruntimeconfig.cache
