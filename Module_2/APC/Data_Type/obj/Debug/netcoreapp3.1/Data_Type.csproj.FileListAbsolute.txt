@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\APC\Data_Type\obj\Debug\netcoreapp3.1\Data_Type.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\APC\Data_Type\obj\Debug\netcoreapp3.1\Data_Type.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\APC\Data_Type\obj\Debug\netcoreapp3.1\Data_Type.AssemblyInfo.cs
+D:\C0520G1\Module_2\APC\Data_Type\obj\Debug\netcoreapp3.1\Data_Type.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\APC\Data_Type\bin\Debug\netcoreapp3.1\Data_Type.exe
+D:\C0520G1\Module_2\APC\Data_Type\bin\Debug\netcoreapp3.1\Data_Type.deps.json
+D:\C0520G1\Module_2\APC\Data_Type\bin\Debug\netcoreapp3.1\Data_Type.runtimeconfig.json
+D:\C0520G1\Module_2\APC\Data_Type\bin\Debug\netcoreapp3.1\Data_Type.runtimeconfig.dev.json
+D:\C0520G1\Module_2\APC\Data_Type\bin\Debug\netcoreapp3.1\Data_Type.dll
+D:\C0520G1\Module_2\APC\Data_Type\bin\Debug\netcoreapp3.1\Data_Type.pdb
+D:\C0520G1\Module_2\APC\Data_Type\obj\Debug\netcoreapp3.1\Data_Type.dll
+D:\C0520G1\Module_2\APC\Data_Type\obj\Debug\netcoreapp3.1\Data_Type.pdb
+D:\C0520G1\Module_2\APC\Data_Type\obj\Debug\netcoreapp3.1\Data_Type.genruntimeconfig.cache

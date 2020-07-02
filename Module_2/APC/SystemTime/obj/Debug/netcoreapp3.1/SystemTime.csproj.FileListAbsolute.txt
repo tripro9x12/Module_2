@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\APC\SystemTime\bin\Debug\netcoreapp3.1\SystemTime.exe
+D:\C0520G1\Module_2\APC\SystemTime\bin\Debug\netcoreapp3.1\SystemTime.deps.json
+D:\C0520G1\Module_2\APC\SystemTime\bin\Debug\netcoreapp3.1\SystemTime.runtimeconfig.json
+D:\C0520G1\Module_2\APC\SystemTime\bin\Debug\netcoreapp3.1\SystemTime.runtimeconfig.dev.json
+D:\C0520G1\Module_2\APC\SystemTime\bin\Debug\netcoreapp3.1\SystemTime.dll
+D:\C0520G1\Module_2\APC\SystemTime\bin\Debug\netcoreapp3.1\SystemTime.pdb
+D:\C0520G1\Module_2\APC\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\APC\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\APC\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.AssemblyInfo.cs
+D:\C0520G1\Module_2\APC\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\APC\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.dll
+D:\C0520G1\Module_2\APC\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.pdb
+D:\C0520G1\Module_2\APC\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.genruntimeconfig.cache
