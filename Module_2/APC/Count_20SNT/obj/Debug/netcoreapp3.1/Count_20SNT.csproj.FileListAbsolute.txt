@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\APC\Count_20SNT\bin\Debug\netcoreapp3.1\Count_20SNT.exe
+D:\C0520G1\Module_2\APC\Count_20SNT\bin\Debug\netcoreapp3.1\Count_20SNT.deps.json
+D:\C0520G1\Module_2\APC\Count_20SNT\bin\Debug\netcoreapp3.1\Count_20SNT.runtimeconfig.json
+D:\C0520G1\Module_2\APC\Count_20SNT\bin\Debug\netcoreapp3.1\Count_20SNT.runtimeconfig.dev.json
+D:\C0520G1\Module_2\APC\Count_20SNT\bin\Debug\netcoreapp3.1\Count_20SNT.dll
+D:\C0520G1\Module_2\APC\Count_20SNT\bin\Debug\netcoreapp3.1\Count_20SNT.pdb
+D:\C0520G1\Module_2\APC\Count_20SNT\obj\Debug\netcoreapp3.1\Count_20SNT.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\APC\Count_20SNT\obj\Debug\netcoreapp3.1\Count_20SNT.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\APC\Count_20SNT\obj\Debug\netcoreapp3.1\Count_20SNT.AssemblyInfo.cs
+D:\C0520G1\Module_2\APC\Count_20SNT\obj\Debug\netcoreapp3.1\Count_20SNT.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\APC\Count_20SNT\obj\Debug\netcoreapp3.1\Count_20SNT.dll
+D:\C0520G1\Module_2\APC\Count_20SNT\obj\Debug\netcoreapp3.1\Count_20SNT.pdb
+D:\C0520G1\Module_2\APC\Count_20SNT\obj\Debug\netcoreapp3.1\Count_20SNT.genruntimeconfig.cache
