@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\APC\CountSNT_BeHon100\bin\Debug\netcoreapp3.1\CountSNT_BeHon100.exe
+D:\C0520G1\Module_2\APC\CountSNT_BeHon100\bin\Debug\netcoreapp3.1\CountSNT_BeHon100.deps.json
+D:\C0520G1\Module_2\APC\CountSNT_BeHon100\bin\Debug\netcoreapp3.1\CountSNT_BeHon100.runtimeconfig.json
+D:\C0520G1\Module_2\APC\CountSNT_BeHon100\bin\Debug\netcoreapp3.1\CountSNT_BeHon100.runtimeconfig.dev.json
+D:\C0520G1\Module_2\APC\CountSNT_BeHon100\bin\Debug\netcoreapp3.1\CountSNT_BeHon100.dll
+D:\C0520G1\Module_2\APC\CountSNT_BeHon100\bin\Debug\netcoreapp3.1\CountSNT_BeHon100.pdb
+D:\C0520G1\Module_2\APC\CountSNT_BeHon100\obj\Debug\netcoreapp3.1\CountSNT_BeHon100.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\APC\CountSNT_BeHon100\obj\Debug\netcoreapp3.1\CountSNT_BeHon100.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\APC\CountSNT_BeHon100\obj\Debug\netcoreapp3.1\CountSNT_BeHon100.AssemblyInfo.cs
+D:\C0520G1\Module_2\APC\CountSNT_BeHon100\obj\Debug\netcoreapp3.1\CountSNT_BeHon100.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\APC\CountSNT_BeHon100\obj\Debug\netcoreapp3.1\CountSNT_BeHon100.dll
+D:\C0520G1\Module_2\APC\CountSNT_BeHon100\obj\Debug\netcoreapp3.1\CountSNT_BeHon100.pdb
+D:\C0520G1\Module_2\APC\CountSNT_BeHon100\obj\Debug\netcoreapp3.1\CountSNT_BeHon100.genruntimeconfig.cache
