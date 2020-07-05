@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\APC\NumberToString\bin\Debug\netcoreapp3.1\NumberToString.exe
+D:\C0520G1\Module_2\APC\NumberToString\bin\Debug\netcoreapp3.1\NumberToString.deps.json
+D:\C0520G1\Module_2\APC\NumberToString\bin\Debug\netcoreapp3.1\NumberToString.runtimeconfig.json
+D:\C0520G1\Module_2\APC\NumberToString\bin\Debug\netcoreapp3.1\NumberToString.runtimeconfig.dev.json
+D:\C0520G1\Module_2\APC\NumberToString\bin\Debug\netcoreapp3.1\NumberToString.dll
+D:\C0520G1\Module_2\APC\NumberToString\bin\Debug\netcoreapp3.1\NumberToString.pdb
+D:\C0520G1\Module_2\APC\NumberToString\obj\Debug\netcoreapp3.1\NumberToString.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\APC\NumberToString\obj\Debug\netcoreapp3.1\NumberToString.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\APC\NumberToString\obj\Debug\netcoreapp3.1\NumberToString.AssemblyInfo.cs
+D:\C0520G1\Module_2\APC\NumberToString\obj\Debug\netcoreapp3.1\NumberToString.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\APC\NumberToString\obj\Debug\netcoreapp3.1\NumberToString.dll
+D:\C0520G1\Module_2\APC\NumberToString\obj\Debug\netcoreapp3.1\NumberToString.pdb
+D:\C0520G1\Module_2\APC\NumberToString\obj\Debug\netcoreapp3.1\NumberToString.genruntimeconfig.cache
