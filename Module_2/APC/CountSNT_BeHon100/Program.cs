@@ -3,7 +3,6 @@
 namespace CountSNT_BeHon100 {
     class Program {
         static void Main (string[] args) {
-            Console.WriteLine ("Nhập SNT cần log ra: ");
             int count = 0;
             int n = 0;
             while (n < 100) {
