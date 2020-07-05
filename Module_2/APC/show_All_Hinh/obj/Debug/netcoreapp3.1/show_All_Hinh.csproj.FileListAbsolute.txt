@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\APC\show_All_Hinh\bin\Debug\netcoreapp3.1\show_All_Hinh.exe
+D:\C0520G1\Module_2\APC\show_All_Hinh\bin\Debug\netcoreapp3.1\show_All_Hinh.deps.json
+D:\C0520G1\Module_2\APC\show_All_Hinh\bin\Debug\netcoreapp3.1\show_All_Hinh.runtimeconfig.json
+D:\C0520G1\Module_2\APC\show_All_Hinh\bin\Debug\netcoreapp3.1\show_All_Hinh.runtimeconfig.dev.json
+D:\C0520G1\Module_2\APC\show_All_Hinh\bin\Debug\netcoreapp3.1\show_All_Hinh.dll
+D:\C0520G1\Module_2\APC\show_All_Hinh\bin\Debug\netcoreapp3.1\show_All_Hinh.pdb
+D:\C0520G1\Module_2\APC\show_All_Hinh\obj\Debug\netcoreapp3.1\show_All_Hinh.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\APC\show_All_Hinh\obj\Debug\netcoreapp3.1\show_All_Hinh.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\APC\show_All_Hinh\obj\Debug\netcoreapp3.1\show_All_Hinh.AssemblyInfo.cs
+D:\C0520G1\Module_2\APC\show_All_Hinh\obj\Debug\netcoreapp3.1\show_All_Hinh.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\APC\show_All_Hinh\obj\Debug\netcoreapp3.1\show_All_Hinh.dll
+D:\C0520G1\Module_2\APC\show_All_Hinh\obj\Debug\netcoreapp3.1\show_All_Hinh.pdb
+D:\C0520G1\Module_2\APC\show_All_Hinh\obj\Debug\netcoreapp3.1\show_All_Hinh.genruntimeconfig.cache
