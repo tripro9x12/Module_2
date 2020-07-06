@@ -1,7 +1,0 @@
-D:\C0520G1\Module_2\Array\Array\Array\obj\Debug\Array.csprojAssemblyReference.cache
-D:\C0520G1\Module_2\Array\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
-D:\C0520G1\Module_2\Array\Array\Array\bin\Debug\Array.exe.config
-D:\C0520G1\Module_2\Array\Array\Array\bin\Debug\Array.exe
-D:\C0520G1\Module_2\Array\Array\Array\bin\Debug\Array.pdb
-D:\C0520G1\Module_2\Array\Array\Array\obj\Debug\Array.exe
-D:\C0520G1\Module_2\Array\Array\Array\obj\Debug\Array.pdb
