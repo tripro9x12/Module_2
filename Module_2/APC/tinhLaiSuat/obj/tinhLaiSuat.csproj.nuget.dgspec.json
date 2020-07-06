@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C0520G1\\Module_2\\APC\\tinhLaiSuat\\tinhLaiSuat.csproj": {}
+    "d:\\C0520G1\\Module_2\\APC\\tinhLaiSuat\\tinhLaiSuat.csproj": {}
   },
   "projects": {
-    "D:\\C0520G1\\Module_2\\APC\\tinhLaiSuat\\tinhLaiSuat.csproj": {
+    "d:\\C0520G1\\Module_2\\APC\\tinhLaiSuat\\tinhLaiSuat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C0520G1\\Module_2\\APC\\tinhLaiSuat\\tinhLaiSuat.csproj",
+        "projectUniqueName": "d:\\C0520G1\\Module_2\\APC\\tinhLaiSuat\\tinhLaiSuat.csproj",
         "projectName": "tinhLaiSuat",
-        "projectPath": "D:\\C0520G1\\Module_2\\APC\\tinhLaiSuat\\tinhLaiSuat.csproj",
+        "projectPath": "d:\\C0520G1\\Module_2\\APC\\tinhLaiSuat\\tinhLaiSuat.csproj",
         "packagesPath": "C:\\Users\\VTA\\.nuget\\packages\\",
-        "outputPath": "D:\\C0520G1\\Module_2\\APC\\tinhLaiSuat\\obj\\",
+        "outputPath": "d:\\C0520G1\\Module_2\\APC\\tinhLaiSuat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

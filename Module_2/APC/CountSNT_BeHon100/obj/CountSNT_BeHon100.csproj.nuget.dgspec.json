@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C0520G1\\Module_2\\APC\\CountSNT_BeHon100\\CountSNT_BeHon100.csproj": {}
+    "d:\\C0520G1\\Module_2\\APC\\CountSNT_BeHon100\\CountSNT_BeHon100.csproj": {}
   },
   "projects": {
-    "D:\\C0520G1\\Module_2\\APC\\CountSNT_BeHon100\\CountSNT_BeHon100.csproj": {
+    "d:\\C0520G1\\Module_2\\APC\\CountSNT_BeHon100\\CountSNT_BeHon100.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C0520G1\\Module_2\\APC\\CountSNT_BeHon100\\CountSNT_BeHon100.csproj",
+        "projectUniqueName": "d:\\C0520G1\\Module_2\\APC\\CountSNT_BeHon100\\CountSNT_BeHon100.csproj",
         "projectName": "CountSNT_BeHon100",
-        "projectPath": "D:\\C0520G1\\Module_2\\APC\\CountSNT_BeHon100\\CountSNT_BeHon100.csproj",
+        "projectPath": "d:\\C0520G1\\Module_2\\APC\\CountSNT_BeHon100\\CountSNT_BeHon100.csproj",
         "packagesPath": "C:\\Users\\VTA\\.nuget\\packages\\",
-        "outputPath": "D:\\C0520G1\\Module_2\\APC\\CountSNT_BeHon100\\obj\\",
+        "outputPath": "d:\\C0520G1\\Module_2\\APC\\CountSNT_BeHon100\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
