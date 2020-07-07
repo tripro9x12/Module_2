@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "InternalLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/InternalLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InternalLib.dll": {}
+        }
+      },
+      "PublicLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/PublicLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PublicLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InternalLib/1.0.0": {
+      "type": "project",
+      "path": "InternalLib/InternalLib.csproj",
+      "msbuildProject": "InternalLib/InternalLib.csproj"
+    },
+    "PublicLib/1.0.0": {
+      "type": "project",
+      "path": "PublicLib/PublicLib.csproj",
+      "msbuildProject": "PublicLib/PublicLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "InternalLib >= 1.0.0",
+      "PublicLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\VTA\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\C0520G1\\Module_2\\OOP\\AccessModifier\\AccessModifier.csproj",
+      "projectName": "AccessModifier",
+      "projectPath": "D:\\C0520G1\\Module_2\\OOP\\AccessModifier\\AccessModifier.csproj",
+      "packagesPath": "C:\\Users\\VTA\\.nuget\\packages\\",
+      "outputPath": "D:\\C0520G1\\Module_2\\OOP\\AccessModifier\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\VTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "D:\\C0520G1\\Module_2\\OOP\\AccessModifier\\InternalLib\\InternalLib.csproj": {
+              "projectPath": "D:\\C0520G1\\Module_2\\OOP\\AccessModifier\\InternalLib\\InternalLib.csproj"
+            },
+            "D:\\C0520G1\\Module_2\\OOP\\AccessModifier\\PublicLib\\PublicLib.csproj": {
+              "projectPath": "D:\\C0520G1\\Module_2\\OOP\\AccessModifier\\PublicLib\\PublicLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

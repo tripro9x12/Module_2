@@ -1,0 +1,9 @@
+D:\C0520G1\Module_2\OOP\AccessModifier\PublicLib\bin\Debug\netstandard2.0\PublicLib.deps.json
+D:\C0520G1\Module_2\OOP\AccessModifier\PublicLib\bin\Debug\netstandard2.0\PublicLib.dll
+D:\C0520G1\Module_2\OOP\AccessModifier\PublicLib\bin\Debug\netstandard2.0\PublicLib.pdb
+D:\C0520G1\Module_2\OOP\AccessModifier\PublicLib\obj\Debug\netstandard2.0\PublicLib.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\OOP\AccessModifier\PublicLib\obj\Debug\netstandard2.0\PublicLib.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\OOP\AccessModifier\PublicLib\obj\Debug\netstandard2.0\PublicLib.AssemblyInfo.cs
+D:\C0520G1\Module_2\OOP\AccessModifier\PublicLib\obj\Debug\netstandard2.0\PublicLib.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\OOP\AccessModifier\PublicLib\obj\Debug\netstandard2.0\PublicLib.dll
+D:\C0520G1\Module_2\OOP\AccessModifier\PublicLib\obj\Debug\netstandard2.0\PublicLib.pdb

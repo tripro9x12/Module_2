@@ -1,0 +1,8 @@
+D:\C0520G1\Module_2\OOP\AccessModifier\InternalLib\bin\Debug\netstandard2.0\InternalLib.deps.json
+D:\C0520G1\Module_2\OOP\AccessModifier\InternalLib\bin\Debug\netstandard2.0\InternalLib.dll
+D:\C0520G1\Module_2\OOP\AccessModifier\InternalLib\bin\Debug\netstandard2.0\InternalLib.pdb
+D:\C0520G1\Module_2\OOP\AccessModifier\InternalLib\obj\Debug\netstandard2.0\InternalLib.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\OOP\AccessModifier\InternalLib\obj\Debug\netstandard2.0\InternalLib.AssemblyInfo.cs
+D:\C0520G1\Module_2\OOP\AccessModifier\InternalLib\obj\Debug\netstandard2.0\InternalLib.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\OOP\AccessModifier\InternalLib\obj\Debug\netstandard2.0\InternalLib.dll
+D:\C0520G1\Module_2\OOP\AccessModifier\InternalLib\obj\Debug\netstandard2.0\InternalLib.pdb
