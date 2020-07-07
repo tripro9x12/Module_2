@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\OOP\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.exe
+D:\C0520G1\Module_2\OOP\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.deps.json
+D:\C0520G1\Module_2\OOP\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.json
+D:\C0520G1\Module_2\OOP\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.dev.json
+D:\C0520G1\Module_2\OOP\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.dll
+D:\C0520G1\Module_2\OOP\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.pdb
+D:\C0520G1\Module_2\OOP\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\OOP\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\OOP\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfo.cs
+D:\C0520G1\Module_2\OOP\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\OOP\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.dll
+D:\C0520G1\Module_2\OOP\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.pdb
+D:\C0520G1\Module_2\OOP\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\AcsessModifile\AcsessModifileDemo\bin\Debug\netcoreapp3.1\AcsessModifileDemo.exe
+D:\C0520G1\Module_2\AcsessModifile\AcsessModifileDemo\bin\Debug\netcoreapp3.1\AcsessModifileDemo.deps.json
+D:\C0520G1\Module_2\AcsessModifile\AcsessModifileDemo\bin\Debug\netcoreapp3.1\AcsessModifileDemo.runtimeconfig.json
+D:\C0520G1\Module_2\AcsessModifile\AcsessModifileDemo\bin\Debug\netcoreapp3.1\AcsessModifileDemo.runtimeconfig.dev.json
+D:\C0520G1\Module_2\AcsessModifile\AcsessModifileDemo\bin\Debug\netcoreapp3.1\AcsessModifileDemo.dll
+D:\C0520G1\Module_2\AcsessModifile\AcsessModifileDemo\bin\Debug\netcoreapp3.1\AcsessModifileDemo.pdb
+D:\C0520G1\Module_2\AcsessModifile\AcsessModifileDemo\obj\Debug\netcoreapp3.1\AcsessModifileDemo.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\AcsessModifile\AcsessModifileDemo\obj\Debug\netcoreapp3.1\AcsessModifileDemo.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\AcsessModifile\AcsessModifileDemo\obj\Debug\netcoreapp3.1\AcsessModifileDemo.AssemblyInfo.cs
+D:\C0520G1\Module_2\AcsessModifile\AcsessModifileDemo\obj\Debug\netcoreapp3.1\AcsessModifileDemo.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\AcsessModifile\AcsessModifileDemo\obj\Debug\netcoreapp3.1\AcsessModifileDemo.dll
+D:\C0520G1\Module_2\AcsessModifile\AcsessModifileDemo\obj\Debug\netcoreapp3.1\AcsessModifileDemo.pdb
+D:\C0520G1\Module_2\AcsessModifile\AcsessModifileDemo\obj\Debug\netcoreapp3.1\AcsessModifileDemo.genruntimeconfig.cache
