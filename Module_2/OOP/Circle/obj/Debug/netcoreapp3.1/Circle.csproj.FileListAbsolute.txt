@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\OOP\Circle\bin\Debug\netcoreapp3.1\Circle.exe
+D:\C0520G1\Module_2\OOP\Circle\bin\Debug\netcoreapp3.1\Circle.deps.json
+D:\C0520G1\Module_2\OOP\Circle\bin\Debug\netcoreapp3.1\Circle.runtimeconfig.json
+D:\C0520G1\Module_2\OOP\Circle\bin\Debug\netcoreapp3.1\Circle.runtimeconfig.dev.json
+D:\C0520G1\Module_2\OOP\Circle\bin\Debug\netcoreapp3.1\Circle.dll
+D:\C0520G1\Module_2\OOP\Circle\bin\Debug\netcoreapp3.1\Circle.pdb
+D:\C0520G1\Module_2\OOP\Circle\obj\Debug\netcoreapp3.1\Circle.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\OOP\Circle\obj\Debug\netcoreapp3.1\Circle.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\OOP\Circle\obj\Debug\netcoreapp3.1\Circle.AssemblyInfo.cs
+D:\C0520G1\Module_2\OOP\Circle\obj\Debug\netcoreapp3.1\Circle.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\OOP\Circle\obj\Debug\netcoreapp3.1\Circle.dll
+D:\C0520G1\Module_2\OOP\Circle\obj\Debug\netcoreapp3.1\Circle.pdb
+D:\C0520G1\Module_2\OOP\Circle\obj\Debug\netcoreapp3.1\Circle.genruntimeconfig.cache
