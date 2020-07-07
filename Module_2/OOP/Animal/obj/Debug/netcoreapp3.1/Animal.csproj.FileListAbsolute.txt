@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\OOP\Animal\bin\Debug\netcoreapp3.1\Animal.exe
+D:\C0520G1\Module_2\OOP\Animal\bin\Debug\netcoreapp3.1\Animal.deps.json
+D:\C0520G1\Module_2\OOP\Animal\bin\Debug\netcoreapp3.1\Animal.runtimeconfig.json
+D:\C0520G1\Module_2\OOP\Animal\bin\Debug\netcoreapp3.1\Animal.runtimeconfig.dev.json
+D:\C0520G1\Module_2\OOP\Animal\bin\Debug\netcoreapp3.1\Animal.dll
+D:\C0520G1\Module_2\OOP\Animal\bin\Debug\netcoreapp3.1\Animal.pdb
+D:\C0520G1\Module_2\OOP\Animal\obj\Debug\netcoreapp3.1\Animal.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\OOP\Animal\obj\Debug\netcoreapp3.1\Animal.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\OOP\Animal\obj\Debug\netcoreapp3.1\Animal.AssemblyInfo.cs
+D:\C0520G1\Module_2\OOP\Animal\obj\Debug\netcoreapp3.1\Animal.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\OOP\Animal\obj\Debug\netcoreapp3.1\Animal.dll
+D:\C0520G1\Module_2\OOP\Animal\obj\Debug\netcoreapp3.1\Animal.pdb
+D:\C0520G1\Module_2\OOP\Animal\obj\Debug\netcoreapp3.1\Animal.genruntimeconfig.cache
