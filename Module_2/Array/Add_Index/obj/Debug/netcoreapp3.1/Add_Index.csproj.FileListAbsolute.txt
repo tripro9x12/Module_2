@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\Array\Add_Index\bin\Debug\netcoreapp3.1\Add_Index.exe
+D:\C0520G1\Module_2\Array\Add_Index\bin\Debug\netcoreapp3.1\Add_Index.deps.json
+D:\C0520G1\Module_2\Array\Add_Index\bin\Debug\netcoreapp3.1\Add_Index.runtimeconfig.json
+D:\C0520G1\Module_2\Array\Add_Index\bin\Debug\netcoreapp3.1\Add_Index.runtimeconfig.dev.json
+D:\C0520G1\Module_2\Array\Add_Index\bin\Debug\netcoreapp3.1\Add_Index.dll
+D:\C0520G1\Module_2\Array\Add_Index\bin\Debug\netcoreapp3.1\Add_Index.pdb
+D:\C0520G1\Module_2\Array\Add_Index\obj\Debug\netcoreapp3.1\Add_Index.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\Array\Add_Index\obj\Debug\netcoreapp3.1\Add_Index.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\Array\Add_Index\obj\Debug\netcoreapp3.1\Add_Index.AssemblyInfo.cs
+D:\C0520G1\Module_2\Array\Add_Index\obj\Debug\netcoreapp3.1\Add_Index.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\Array\Add_Index\obj\Debug\netcoreapp3.1\Add_Index.dll
+D:\C0520G1\Module_2\Array\Add_Index\obj\Debug\netcoreapp3.1\Add_Index.pdb
+D:\C0520G1\Module_2\Array\Add_Index\obj\Debug\netcoreapp3.1\Add_Index.genruntimeconfig.cache
