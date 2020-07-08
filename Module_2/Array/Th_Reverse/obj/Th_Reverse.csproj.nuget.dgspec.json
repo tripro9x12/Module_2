@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\C0520G1\\Module_2\\OOP\\Circle\\Circle.csproj": {}
+    "D:\\C0520G1\\Module_2\\Array\\Th_Reverse\\Th_Reverse.csproj": {}
   },
   "projects": {
-    "d:\\C0520G1\\Module_2\\OOP\\Circle\\Circle.csproj": {
+    "D:\\C0520G1\\Module_2\\Array\\Th_Reverse\\Th_Reverse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\C0520G1\\Module_2\\OOP\\Circle\\Circle.csproj",
-        "projectName": "Circle",
-        "projectPath": "d:\\C0520G1\\Module_2\\OOP\\Circle\\Circle.csproj",
+        "projectUniqueName": "D:\\C0520G1\\Module_2\\Array\\Th_Reverse\\Th_Reverse.csproj",
+        "projectName": "Th_Reverse",
+        "projectPath": "D:\\C0520G1\\Module_2\\Array\\Th_Reverse\\Th_Reverse.csproj",
         "packagesPath": "C:\\Users\\VTA\\.nuget\\packages\\",
-        "outputPath": "d:\\C0520G1\\Module_2\\OOP\\Circle\\obj\\",
+        "outputPath": "D:\\C0520G1\\Module_2\\Array\\Th_Reverse\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
