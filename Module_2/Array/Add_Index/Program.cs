@@ -10,9 +10,14 @@ namespace Add_Index
             Console.WriteLine("Nhập n:");
             n = Int32.Parse(Console.ReadLine());
             int[] arr = new int[n];
+            // for (int i = 0; i < arr.Length; i++)
+            // {
+            //     arr[i] = 0;
+            // }
             for (int i = 0; i < arr.Length; i++)
             {
-                arr[i] = 0;
+                Console.Write($"arr[{i}]: ");
+                arr[i] = Int32.Parse(Console.ReadLine());
             }
             Console.WriteLine("Nhập X số muốn chèn: ");
             int X = Int32.Parse(Console.ReadLine());
