@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\Array\DeleteIndex\bin\Debug\netcoreapp3.1\DeleteIndex.exe
+D:\C0520G1\Module_2\Array\DeleteIndex\bin\Debug\netcoreapp3.1\DeleteIndex.deps.json
+D:\C0520G1\Module_2\Array\DeleteIndex\bin\Debug\netcoreapp3.1\DeleteIndex.runtimeconfig.json
+D:\C0520G1\Module_2\Array\DeleteIndex\bin\Debug\netcoreapp3.1\DeleteIndex.runtimeconfig.dev.json
+D:\C0520G1\Module_2\Array\DeleteIndex\bin\Debug\netcoreapp3.1\DeleteIndex.dll
+D:\C0520G1\Module_2\Array\DeleteIndex\bin\Debug\netcoreapp3.1\DeleteIndex.pdb
+D:\C0520G1\Module_2\Array\DeleteIndex\obj\Debug\netcoreapp3.1\DeleteIndex.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\Array\DeleteIndex\obj\Debug\netcoreapp3.1\DeleteIndex.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\Array\DeleteIndex\obj\Debug\netcoreapp3.1\DeleteIndex.AssemblyInfo.cs
+D:\C0520G1\Module_2\Array\DeleteIndex\obj\Debug\netcoreapp3.1\DeleteIndex.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\Array\DeleteIndex\obj\Debug\netcoreapp3.1\DeleteIndex.dll
+D:\C0520G1\Module_2\Array\DeleteIndex\obj\Debug\netcoreapp3.1\DeleteIndex.pdb
+D:\C0520G1\Module_2\Array\DeleteIndex\obj\Debug\netcoreapp3.1\DeleteIndex.genruntimeconfig.cache
