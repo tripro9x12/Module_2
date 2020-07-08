@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C0520G1\\Module_2\\Array\\Reveser\\Reveser.csproj",
-      "projectName": "Reveser",
-      "projectPath": "D:\\C0520G1\\Module_2\\Array\\Reveser\\Reveser.csproj",
+      "projectUniqueName": "D:\\C0520G1\\Module_2\\Array\\TH_Array2chieu\\TH_Array2chieu.csproj",
+      "projectName": "TH_Array2chieu",
+      "projectPath": "D:\\C0520G1\\Module_2\\Array\\TH_Array2chieu\\TH_Array2chieu.csproj",
       "packagesPath": "C:\\Users\\VTA\\.nuget\\packages\\",
-      "outputPath": "D:\\C0520G1\\Module_2\\Array\\Reveser\\obj\\",
+      "outputPath": "D:\\C0520G1\\Module_2\\Array\\TH_Array2chieu\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
