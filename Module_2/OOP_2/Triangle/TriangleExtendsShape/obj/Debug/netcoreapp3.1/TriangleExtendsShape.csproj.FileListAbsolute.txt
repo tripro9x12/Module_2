@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\OOP_2\Triangle\TriangleExtendsShape\bin\Debug\netcoreapp3.1\TriangleExtendsShape.exe
+D:\C0520G1\Module_2\OOP_2\Triangle\TriangleExtendsShape\bin\Debug\netcoreapp3.1\TriangleExtendsShape.deps.json
+D:\C0520G1\Module_2\OOP_2\Triangle\TriangleExtendsShape\bin\Debug\netcoreapp3.1\TriangleExtendsShape.runtimeconfig.json
+D:\C0520G1\Module_2\OOP_2\Triangle\TriangleExtendsShape\bin\Debug\netcoreapp3.1\TriangleExtendsShape.runtimeconfig.dev.json
+D:\C0520G1\Module_2\OOP_2\Triangle\TriangleExtendsShape\bin\Debug\netcoreapp3.1\TriangleExtendsShape.dll
+D:\C0520G1\Module_2\OOP_2\Triangle\TriangleExtendsShape\bin\Debug\netcoreapp3.1\TriangleExtendsShape.pdb
+D:\C0520G1\Module_2\OOP_2\Triangle\TriangleExtendsShape\obj\Debug\netcoreapp3.1\TriangleExtendsShape.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\OOP_2\Triangle\TriangleExtendsShape\obj\Debug\netcoreapp3.1\TriangleExtendsShape.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\OOP_2\Triangle\TriangleExtendsShape\obj\Debug\netcoreapp3.1\TriangleExtendsShape.AssemblyInfo.cs
+D:\C0520G1\Module_2\OOP_2\Triangle\TriangleExtendsShape\obj\Debug\netcoreapp3.1\TriangleExtendsShape.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\OOP_2\Triangle\TriangleExtendsShape\obj\Debug\netcoreapp3.1\TriangleExtendsShape.dll
+D:\C0520G1\Module_2\OOP_2\Triangle\TriangleExtendsShape\obj\Debug\netcoreapp3.1\TriangleExtendsShape.pdb
+D:\C0520G1\Module_2\OOP_2\Triangle\TriangleExtendsShape\obj\Debug\netcoreapp3.1\TriangleExtendsShape.genruntimeconfig.cache
