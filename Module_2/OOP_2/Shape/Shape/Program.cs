@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Shape
 {
@@ -46,6 +47,27 @@ namespace Shape
                 Console.WriteLine(circle);
             }
 
+
+
+
+            ComperableCircle[] circles2 = new ComperableCircle[3];
+            circles[0] = new ComperableCircle(3.6);
+            circles[1] = new ComperableCircle();
+            circles[2] = new ComperableCircle(3.5, "indigo", false);
+
+            Console.WriteLine("Pre-sorted:");
+            foreach (ComperableCircle circle_1 in circles2)
+            {
+                Console.WriteLine(circle_1);
+            }
+
+            Array.Sort(circles2);
+
+            Console.WriteLine("After-sorted:");
+            foreach (ComperableCircle circle_1 in circles)
+            {
+                Console.WriteLine(circle_1);
+            }
         }
     }
 }
