@@ -25,6 +25,27 @@ namespace Shape
             rectangle = new Rectangle(2.5, 3.8, "orange", true);
             Console.WriteLine(rectangle);
 
+
+            Circle[] circles = new Circle[3];
+            circles[0] = new Circle(3.6);
+            circles[1] = new Circle();
+            circles[2] = new Circle(3.5, "indigo", false);
+
+            Console.WriteLine("Pre-sorted:");
+            foreach (Circle circle1 in circles)
+            {
+                Console.WriteLine(circle1);
+            }
+
+            IComparer<Circle> circleComparator = new CircleComparer();
+            Array.Sort(circles, circleComparator);
+
+            Console.WriteLine("After-sorted:");
+            foreach (Circle circle1 in circles)
+            {
+                Console.WriteLine(circle);
+            }
+
         }
     }
 }

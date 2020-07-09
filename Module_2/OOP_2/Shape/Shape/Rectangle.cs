@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Shape
 {
-    class Rectangle : Shape
+    public class Rectangle : Shape
     {
         private double width = 1.0;
 

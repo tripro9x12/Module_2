@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Shape
 {
-    class Shape
+    public class Shape
     {
         private String color = "green";
 
