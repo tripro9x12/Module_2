@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\Array\CountCharInString\bin\Debug\netcoreapp3.1\CountCharInString.exe
+D:\C0520G1\Module_2\Array\CountCharInString\bin\Debug\netcoreapp3.1\CountCharInString.deps.json
+D:\C0520G1\Module_2\Array\CountCharInString\bin\Debug\netcoreapp3.1\CountCharInString.runtimeconfig.json
+D:\C0520G1\Module_2\Array\CountCharInString\bin\Debug\netcoreapp3.1\CountCharInString.runtimeconfig.dev.json
+D:\C0520G1\Module_2\Array\CountCharInString\bin\Debug\netcoreapp3.1\CountCharInString.dll
+D:\C0520G1\Module_2\Array\CountCharInString\bin\Debug\netcoreapp3.1\CountCharInString.pdb
+D:\C0520G1\Module_2\Array\CountCharInString\obj\Debug\netcoreapp3.1\CountCharInString.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\Array\CountCharInString\obj\Debug\netcoreapp3.1\CountCharInString.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\Array\CountCharInString\obj\Debug\netcoreapp3.1\CountCharInString.AssemblyInfo.cs
+D:\C0520G1\Module_2\Array\CountCharInString\obj\Debug\netcoreapp3.1\CountCharInString.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\Array\CountCharInString\obj\Debug\netcoreapp3.1\CountCharInString.dll
+D:\C0520G1\Module_2\Array\CountCharInString\obj\Debug\netcoreapp3.1\CountCharInString.pdb
+D:\C0520G1\Module_2\Array\CountCharInString\obj\Debug\netcoreapp3.1\CountCharInString.genruntimeconfig.cache
