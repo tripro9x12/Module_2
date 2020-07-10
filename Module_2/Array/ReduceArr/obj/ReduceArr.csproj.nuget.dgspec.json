@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C0520G1\\Module_2\\Array\\DeleteIndex\\DeleteIndex.csproj": {}
+    "D:\\C0520G1\\Module_2\\Array\\ReduceArr\\ReduceArr.csproj": {}
   },
   "projects": {
-    "D:\\C0520G1\\Module_2\\Array\\DeleteIndex\\DeleteIndex.csproj": {
+    "D:\\C0520G1\\Module_2\\Array\\ReduceArr\\ReduceArr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C0520G1\\Module_2\\Array\\DeleteIndex\\DeleteIndex.csproj",
-        "projectName": "DeleteIndex",
-        "projectPath": "D:\\C0520G1\\Module_2\\Array\\DeleteIndex\\DeleteIndex.csproj",
+        "projectUniqueName": "D:\\C0520G1\\Module_2\\Array\\ReduceArr\\ReduceArr.csproj",
+        "projectName": "ReduceArr",
+        "projectPath": "D:\\C0520G1\\Module_2\\Array\\ReduceArr\\ReduceArr.csproj",
         "packagesPath": "C:\\Users\\VTA\\.nuget\\packages\\",
-        "outputPath": "D:\\C0520G1\\Module_2\\Array\\DeleteIndex\\obj\\",
+        "outputPath": "D:\\C0520G1\\Module_2\\Array\\ReduceArr\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

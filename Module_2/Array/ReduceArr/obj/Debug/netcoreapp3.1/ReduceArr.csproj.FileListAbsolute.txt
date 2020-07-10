@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\Array\ReduceArr\bin\Debug\netcoreapp3.1\ReduceArr.exe
+D:\C0520G1\Module_2\Array\ReduceArr\bin\Debug\netcoreapp3.1\ReduceArr.deps.json
+D:\C0520G1\Module_2\Array\ReduceArr\bin\Debug\netcoreapp3.1\ReduceArr.runtimeconfig.json
+D:\C0520G1\Module_2\Array\ReduceArr\bin\Debug\netcoreapp3.1\ReduceArr.runtimeconfig.dev.json
+D:\C0520G1\Module_2\Array\ReduceArr\bin\Debug\netcoreapp3.1\ReduceArr.dll
+D:\C0520G1\Module_2\Array\ReduceArr\bin\Debug\netcoreapp3.1\ReduceArr.pdb
+D:\C0520G1\Module_2\Array\ReduceArr\obj\Debug\netcoreapp3.1\ReduceArr.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\Array\ReduceArr\obj\Debug\netcoreapp3.1\ReduceArr.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\Array\ReduceArr\obj\Debug\netcoreapp3.1\ReduceArr.AssemblyInfo.cs
+D:\C0520G1\Module_2\Array\ReduceArr\obj\Debug\netcoreapp3.1\ReduceArr.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\Array\ReduceArr\obj\Debug\netcoreapp3.1\ReduceArr.dll
+D:\C0520G1\Module_2\Array\ReduceArr\obj\Debug\netcoreapp3.1\ReduceArr.pdb
+D:\C0520G1\Module_2\Array\ReduceArr\obj\Debug\netcoreapp3.1\ReduceArr.genruntimeconfig.cache

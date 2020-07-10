@@ -28,7 +28,7 @@ namespace DeleteIndex
                     arr[i + 1] = temp;
                 }
             }
-            arr[arr.Length - 1] = 0;
+            Array.Resize(ref arr, arr.Length - 1);
 
             for (int i = 0; i < arr.Length; i++)
             {
