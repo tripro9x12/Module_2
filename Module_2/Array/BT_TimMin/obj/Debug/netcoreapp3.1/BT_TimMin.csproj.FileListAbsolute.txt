@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\Array\BT_TimMin\bin\Debug\netcoreapp3.1\BT_TimMin.exe
+D:\C0520G1\Module_2\Array\BT_TimMin\bin\Debug\netcoreapp3.1\BT_TimMin.deps.json
+D:\C0520G1\Module_2\Array\BT_TimMin\bin\Debug\netcoreapp3.1\BT_TimMin.runtimeconfig.json
+D:\C0520G1\Module_2\Array\BT_TimMin\bin\Debug\netcoreapp3.1\BT_TimMin.runtimeconfig.dev.json
+D:\C0520G1\Module_2\Array\BT_TimMin\bin\Debug\netcoreapp3.1\BT_TimMin.dll
+D:\C0520G1\Module_2\Array\BT_TimMin\bin\Debug\netcoreapp3.1\BT_TimMin.pdb
+D:\C0520G1\Module_2\Array\BT_TimMin\obj\Debug\netcoreapp3.1\BT_TimMin.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\Array\BT_TimMin\obj\Debug\netcoreapp3.1\BT_TimMin.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\Array\BT_TimMin\obj\Debug\netcoreapp3.1\BT_TimMin.AssemblyInfo.cs
+D:\C0520G1\Module_2\Array\BT_TimMin\obj\Debug\netcoreapp3.1\BT_TimMin.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\Array\BT_TimMin\obj\Debug\netcoreapp3.1\BT_TimMin.dll
+D:\C0520G1\Module_2\Array\BT_TimMin\obj\Debug\netcoreapp3.1\BT_TimMin.pdb
+D:\C0520G1\Module_2\Array\BT_TimMin\obj\Debug\netcoreapp3.1\BT_TimMin.genruntimeconfig.cache
