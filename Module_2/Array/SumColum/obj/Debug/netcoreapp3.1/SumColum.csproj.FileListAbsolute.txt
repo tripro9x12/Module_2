@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\Array\SumColum\bin\Debug\netcoreapp3.1\SumColum.exe
+D:\C0520G1\Module_2\Array\SumColum\bin\Debug\netcoreapp3.1\SumColum.deps.json
+D:\C0520G1\Module_2\Array\SumColum\bin\Debug\netcoreapp3.1\SumColum.runtimeconfig.json
+D:\C0520G1\Module_2\Array\SumColum\bin\Debug\netcoreapp3.1\SumColum.runtimeconfig.dev.json
+D:\C0520G1\Module_2\Array\SumColum\bin\Debug\netcoreapp3.1\SumColum.dll
+D:\C0520G1\Module_2\Array\SumColum\bin\Debug\netcoreapp3.1\SumColum.pdb
+D:\C0520G1\Module_2\Array\SumColum\obj\Debug\netcoreapp3.1\SumColum.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\Array\SumColum\obj\Debug\netcoreapp3.1\SumColum.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\Array\SumColum\obj\Debug\netcoreapp3.1\SumColum.AssemblyInfo.cs
+D:\C0520G1\Module_2\Array\SumColum\obj\Debug\netcoreapp3.1\SumColum.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\Array\SumColum\obj\Debug\netcoreapp3.1\SumColum.dll
+D:\C0520G1\Module_2\Array\SumColum\obj\Debug\netcoreapp3.1\SumColum.pdb
+D:\C0520G1\Module_2\Array\SumColum\obj\Debug\netcoreapp3.1\SumColum.genruntimeconfig.cache
