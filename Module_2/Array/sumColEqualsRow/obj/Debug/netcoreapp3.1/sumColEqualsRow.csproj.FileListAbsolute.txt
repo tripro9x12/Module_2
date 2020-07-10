@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\Array\sumColEqualsRow\bin\Debug\netcoreapp3.1\sumColEqualsRow.exe
+D:\C0520G1\Module_2\Array\sumColEqualsRow\bin\Debug\netcoreapp3.1\sumColEqualsRow.deps.json
+D:\C0520G1\Module_2\Array\sumColEqualsRow\bin\Debug\netcoreapp3.1\sumColEqualsRow.runtimeconfig.json
+D:\C0520G1\Module_2\Array\sumColEqualsRow\bin\Debug\netcoreapp3.1\sumColEqualsRow.runtimeconfig.dev.json
+D:\C0520G1\Module_2\Array\sumColEqualsRow\bin\Debug\netcoreapp3.1\sumColEqualsRow.dll
+D:\C0520G1\Module_2\Array\sumColEqualsRow\bin\Debug\netcoreapp3.1\sumColEqualsRow.pdb
+D:\C0520G1\Module_2\Array\sumColEqualsRow\obj\Debug\netcoreapp3.1\sumColEqualsRow.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\Array\sumColEqualsRow\obj\Debug\netcoreapp3.1\sumColEqualsRow.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\Array\sumColEqualsRow\obj\Debug\netcoreapp3.1\sumColEqualsRow.AssemblyInfo.cs
+D:\C0520G1\Module_2\Array\sumColEqualsRow\obj\Debug\netcoreapp3.1\sumColEqualsRow.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\Array\sumColEqualsRow\obj\Debug\netcoreapp3.1\sumColEqualsRow.dll
+D:\C0520G1\Module_2\Array\sumColEqualsRow\obj\Debug\netcoreapp3.1\sumColEqualsRow.pdb
+D:\C0520G1\Module_2\Array\sumColEqualsRow\obj\Debug\netcoreapp3.1\sumColEqualsRow.genruntimeconfig.cache

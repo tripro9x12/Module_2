@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "sumColEqualsRow/1.0.0": {
+        "runtime": {
+          "sumColEqualsRow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sumColEqualsRow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
