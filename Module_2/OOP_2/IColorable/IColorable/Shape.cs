@@ -24,12 +24,18 @@ namespace IColorable
             return color;
         }
 
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="color"></param>
         public void setColor(string color)
         {
             this.color = color;
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public bool isFilled()
         {
             return filled;
@@ -50,6 +56,9 @@ namespace IColorable
         }
 
         public virtual void HowToColor() { }
+        public virtual string Name() {
+            return "";
+        }
 
     }
 }

@@ -64,5 +64,8 @@ namespace IColorable
                     + ", which is a subclass of "
                     + base.ToString();
         }
+        public override string Name() {
+            return "Rectangle";
+        }
     }
 }

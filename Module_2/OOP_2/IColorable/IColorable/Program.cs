@@ -16,6 +16,7 @@ namespace IColorable
             shape[1] = rec;
             for(int i = 0; i < shape.Length; i++)
             {
+                Console.Write(shape[i].Name() + " ");
                 Console.WriteLine(shape[i].GetArea());
                 if (shape[i] is Icolorabale)
                 {
@@ -23,6 +24,7 @@ namespace IColorable
                 }
           
             }
+
 
         }
     }

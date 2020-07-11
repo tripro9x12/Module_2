@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\CleanCode\CleanCode\CleanCode\bin\Debug\netcoreapp3.1\CleanCode.exe
+D:\C0520G1\Module_2\CleanCode\CleanCode\CleanCode\bin\Debug\netcoreapp3.1\CleanCode.deps.json
+D:\C0520G1\Module_2\CleanCode\CleanCode\CleanCode\bin\Debug\netcoreapp3.1\CleanCode.runtimeconfig.json
+D:\C0520G1\Module_2\CleanCode\CleanCode\CleanCode\bin\Debug\netcoreapp3.1\CleanCode.runtimeconfig.dev.json
+D:\C0520G1\Module_2\CleanCode\CleanCode\CleanCode\bin\Debug\netcoreapp3.1\CleanCode.dll
+D:\C0520G1\Module_2\CleanCode\CleanCode\CleanCode\bin\Debug\netcoreapp3.1\CleanCode.pdb
+D:\C0520G1\Module_2\CleanCode\CleanCode\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\CleanCode\CleanCode\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\CleanCode\CleanCode\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.AssemblyInfo.cs
+D:\C0520G1\Module_2\CleanCode\CleanCode\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\CleanCode\CleanCode\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.dll
+D:\C0520G1\Module_2\CleanCode\CleanCode\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.pdb
+D:\C0520G1\Module_2\CleanCode\CleanCode\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.genruntimeconfig.cache

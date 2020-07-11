@@ -45,5 +45,8 @@ namespace IColorable
         {
             Console.WriteLine("Color all four sides");
         }
+        public override string Name() {
+            return "Square";
+        }
     }
 }
