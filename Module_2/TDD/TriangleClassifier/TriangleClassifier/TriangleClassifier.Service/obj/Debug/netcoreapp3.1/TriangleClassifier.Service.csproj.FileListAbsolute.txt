@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\TDD\TriangleClassifier\TriangleClassifier\TriangleClassifier.Service\bin\Debug\netcoreapp3.1\TriangleClassifier.Service.exe
+D:\C0520G1\Module_2\TDD\TriangleClassifier\TriangleClassifier\TriangleClassifier.Service\bin\Debug\netcoreapp3.1\TriangleClassifier.Service.deps.json
+D:\C0520G1\Module_2\TDD\TriangleClassifier\TriangleClassifier\TriangleClassifier.Service\bin\Debug\netcoreapp3.1\TriangleClassifier.Service.runtimeconfig.json
+D:\C0520G1\Module_2\TDD\TriangleClassifier\TriangleClassifier\TriangleClassifier.Service\bin\Debug\netcoreapp3.1\TriangleClassifier.Service.runtimeconfig.dev.json
+D:\C0520G1\Module_2\TDD\TriangleClassifier\TriangleClassifier\TriangleClassifier.Service\bin\Debug\netcoreapp3.1\TriangleClassifier.Service.dll
+D:\C0520G1\Module_2\TDD\TriangleClassifier\TriangleClassifier\TriangleClassifier.Service\bin\Debug\netcoreapp3.1\TriangleClassifier.Service.pdb
+D:\C0520G1\Module_2\TDD\TriangleClassifier\TriangleClassifier\TriangleClassifier.Service\obj\Debug\netcoreapp3.1\TriangleClassifier.Service.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\TDD\TriangleClassifier\TriangleClassifier\TriangleClassifier.Service\obj\Debug\netcoreapp3.1\TriangleClassifier.Service.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\TDD\TriangleClassifier\TriangleClassifier\TriangleClassifier.Service\obj\Debug\netcoreapp3.1\TriangleClassifier.Service.AssemblyInfo.cs
+D:\C0520G1\Module_2\TDD\TriangleClassifier\TriangleClassifier\TriangleClassifier.Service\obj\Debug\netcoreapp3.1\TriangleClassifier.Service.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\TDD\TriangleClassifier\TriangleClassifier\TriangleClassifier.Service\obj\Debug\netcoreapp3.1\TriangleClassifier.Service.dll
+D:\C0520G1\Module_2\TDD\TriangleClassifier\TriangleClassifier\TriangleClassifier.Service\obj\Debug\netcoreapp3.1\TriangleClassifier.Service.pdb
+D:\C0520G1\Module_2\TDD\TriangleClassifier\TriangleClassifier\TriangleClassifier.Service\obj\Debug\netcoreapp3.1\TriangleClassifier.Service.genruntimeconfig.cache
