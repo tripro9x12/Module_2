@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\TDD\NextDayCalculator\NextDay\NextDayCalculator.Service\obj\Debug\netcoreapp3.1\NextDayCalculator.Service.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\TDD\NextDayCalculator\NextDay\NextDayCalculator.Service\obj\Debug\netcoreapp3.1\NextDayCalculator.Service.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\TDD\NextDayCalculator\NextDay\NextDayCalculator.Service\obj\Debug\netcoreapp3.1\NextDayCalculator.Service.AssemblyInfo.cs
+D:\C0520G1\Module_2\TDD\NextDayCalculator\NextDay\NextDayCalculator.Service\obj\Debug\netcoreapp3.1\NextDayCalculator.Service.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\TDD\NextDayCalculator\NextDay\NextDayCalculator.Service\bin\Debug\netcoreapp3.1\NextDayCalculator.Service.exe
+D:\C0520G1\Module_2\TDD\NextDayCalculator\NextDay\NextDayCalculator.Service\bin\Debug\netcoreapp3.1\NextDayCalculator.Service.deps.json
+D:\C0520G1\Module_2\TDD\NextDayCalculator\NextDay\NextDayCalculator.Service\bin\Debug\netcoreapp3.1\NextDayCalculator.Service.runtimeconfig.json
+D:\C0520G1\Module_2\TDD\NextDayCalculator\NextDay\NextDayCalculator.Service\bin\Debug\netcoreapp3.1\NextDayCalculator.Service.runtimeconfig.dev.json
+D:\C0520G1\Module_2\TDD\NextDayCalculator\NextDay\NextDayCalculator.Service\bin\Debug\netcoreapp3.1\NextDayCalculator.Service.dll
+D:\C0520G1\Module_2\TDD\NextDayCalculator\NextDay\NextDayCalculator.Service\bin\Debug\netcoreapp3.1\NextDayCalculator.Service.pdb
+D:\C0520G1\Module_2\TDD\NextDayCalculator\NextDay\NextDayCalculator.Service\obj\Debug\netcoreapp3.1\NextDayCalculator.Service.dll
+D:\C0520G1\Module_2\TDD\NextDayCalculator\NextDay\NextDayCalculator.Service\obj\Debug\netcoreapp3.1\NextDayCalculator.Service.pdb
+D:\C0520G1\Module_2\TDD\NextDayCalculator\NextDay\NextDayCalculator.Service\obj\Debug\netcoreapp3.1\NextDayCalculator.Service.genruntimeconfig.cache

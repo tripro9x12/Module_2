@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextDayCalculator.Service", "NextDayCalculator.Service\NextDayCalculator.Service.csproj", "{61FED220-36C6-497A-985F-619F1125952C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextDayCalculator.Test", "NextDayCalculator.Test\NextDayCalculator.Test.csproj", "{155B9ACF-7F6E-42AD-B807-601863F5557B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61FED220-36C6-497A-985F-619F1125952C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61FED220-36C6-497A-985F-619F1125952C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61FED220-36C6-497A-985F-619F1125952C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61FED220-36C6-497A-985F-619F1125952C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{155B9ACF-7F6E-42AD-B807-601863F5557B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155B9ACF-7F6E-42AD-B807-601863F5557B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155B9ACF-7F6E-42AD-B807-601863F5557B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155B9ACF-7F6E-42AD-B807-601863F5557B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5584B612-3FDB-4BCC-A3B2-D7CA1350460A}
+	EndGlobalSection
+EndGlobal
