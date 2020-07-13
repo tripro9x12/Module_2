@@ -87,6 +87,7 @@ namespace BT_CleanCode
                     score += "-"; 
                     tempScore = NumScoreTwo; 
                 }
+                
                 switch (tempScore)
                 {
                     case Love:

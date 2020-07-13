@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\TDD\Calculator\SimpleCalculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.exe
+D:\C0520G1\Module_2\TDD\Calculator\SimpleCalculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.deps.json
+D:\C0520G1\Module_2\TDD\Calculator\SimpleCalculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.json
+D:\C0520G1\Module_2\TDD\Calculator\SimpleCalculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.dev.json
+D:\C0520G1\Module_2\TDD\Calculator\SimpleCalculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.dll
+D:\C0520G1\Module_2\TDD\Calculator\SimpleCalculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.pdb
+D:\C0520G1\Module_2\TDD\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\TDD\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\TDD\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfo.cs
+D:\C0520G1\Module_2\TDD\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\TDD\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.dll
+D:\C0520G1\Module_2\TDD\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.pdb
+D:\C0520G1\Module_2\TDD\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.genruntimeconfig.cache

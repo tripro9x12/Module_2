@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.exe
+D:\C0520G1\Module_2\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.deps.json
+D:\C0520G1\Module_2\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.runtimeconfig.json
+D:\C0520G1\Module_2\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.runtimeconfig.dev.json
+D:\C0520G1\Module_2\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.dll
+D:\C0520G1\Module_2\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.pdb
+D:\C0520G1\Module_2\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.AssemblyInfo.cs
+D:\C0520G1\Module_2\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.dll
+D:\C0520G1\Module_2\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.pdb
+D:\C0520G1\Module_2\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.genruntimeconfig.cache
