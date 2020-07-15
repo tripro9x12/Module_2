@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoArrList", "DemoArrList\DemoArrList.csproj", "{25236D73-AD63-40EB-A34A-69CC43D89736}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoArrList", "DemoArrList\DemoArrList.csproj", "{25236D73-AD63-40EB-A34A-69CC43D89736}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyList", "MyList\MyList.csproj", "{79CAFB2F-4F46-4F0B-943A-AE1C696C3C55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyList", "MyList\MyList.csproj", "{79CAFB2F-4F46-4F0B-943A-AE1C696C3C55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{7F69700E-71B5-4090-948A-8350683BA2CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{79CAFB2F-4F46-4F0B-943A-AE1C696C3C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79CAFB2F-4F46-4F0B-943A-AE1C696C3C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79CAFB2F-4F46-4F0B-943A-AE1C696C3C55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F69700E-71B5-4090-948A-8350683BA2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F69700E-71B5-4090-948A-8350683BA2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F69700E-71B5-4090-948A-8350683BA2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F69700E-71B5-4090-948A-8350683BA2CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

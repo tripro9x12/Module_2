@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\ArrayList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.exe
+D:\C0520G1\Module_2\ArrayList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.deps.json
+D:\C0520G1\Module_2\ArrayList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.json
+D:\C0520G1\Module_2\ArrayList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.dev.json
+D:\C0520G1\Module_2\ArrayList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.dll
+D:\C0520G1\Module_2\ArrayList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.pdb
+D:\C0520G1\Module_2\ArrayList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\ArrayList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\ArrayList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfo.cs
+D:\C0520G1\Module_2\ArrayList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\ArrayList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.dll
+D:\C0520G1\Module_2\ArrayList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.pdb
+D:\C0520G1\Module_2\ArrayList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.genruntimeconfig.cache
