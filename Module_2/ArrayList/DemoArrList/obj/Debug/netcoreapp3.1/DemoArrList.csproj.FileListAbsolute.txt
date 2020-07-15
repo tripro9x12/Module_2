@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\ArrayList\ArrayList\DemoArrList\bin\Debug\netcoreapp3.1\DemoArrList.exe
+D:\C0520G1\Module_2\ArrayList\ArrayList\DemoArrList\bin\Debug\netcoreapp3.1\DemoArrList.deps.json
+D:\C0520G1\Module_2\ArrayList\ArrayList\DemoArrList\bin\Debug\netcoreapp3.1\DemoArrList.runtimeconfig.json
+D:\C0520G1\Module_2\ArrayList\ArrayList\DemoArrList\bin\Debug\netcoreapp3.1\DemoArrList.runtimeconfig.dev.json
+D:\C0520G1\Module_2\ArrayList\ArrayList\DemoArrList\bin\Debug\netcoreapp3.1\DemoArrList.dll
+D:\C0520G1\Module_2\ArrayList\ArrayList\DemoArrList\bin\Debug\netcoreapp3.1\DemoArrList.pdb
+D:\C0520G1\Module_2\ArrayList\ArrayList\DemoArrList\obj\Debug\netcoreapp3.1\DemoArrList.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\ArrayList\ArrayList\DemoArrList\obj\Debug\netcoreapp3.1\DemoArrList.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\ArrayList\ArrayList\DemoArrList\obj\Debug\netcoreapp3.1\DemoArrList.AssemblyInfo.cs
+D:\C0520G1\Module_2\ArrayList\ArrayList\DemoArrList\obj\Debug\netcoreapp3.1\DemoArrList.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\ArrayList\ArrayList\DemoArrList\obj\Debug\netcoreapp3.1\DemoArrList.dll
+D:\C0520G1\Module_2\ArrayList\ArrayList\DemoArrList\obj\Debug\netcoreapp3.1\DemoArrList.pdb
+D:\C0520G1\Module_2\ArrayList\ArrayList\DemoArrList\obj\Debug\netcoreapp3.1\DemoArrList.genruntimeconfig.cache

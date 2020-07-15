@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\ArrayList\ArrayList\MyList\bin\Debug\netcoreapp3.1\MyList.exe
+D:\C0520G1\Module_2\ArrayList\ArrayList\MyList\bin\Debug\netcoreapp3.1\MyList.deps.json
+D:\C0520G1\Module_2\ArrayList\ArrayList\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.json
+D:\C0520G1\Module_2\ArrayList\ArrayList\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.dev.json
+D:\C0520G1\Module_2\ArrayList\ArrayList\MyList\bin\Debug\netcoreapp3.1\MyList.dll
+D:\C0520G1\Module_2\ArrayList\ArrayList\MyList\bin\Debug\netcoreapp3.1\MyList.pdb
+D:\C0520G1\Module_2\ArrayList\ArrayList\MyList\obj\Debug\netcoreapp3.1\MyList.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\ArrayList\ArrayList\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\ArrayList\ArrayList\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfo.cs
+D:\C0520G1\Module_2\ArrayList\ArrayList\MyList\obj\Debug\netcoreapp3.1\MyList.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\ArrayList\ArrayList\MyList\obj\Debug\netcoreapp3.1\MyList.dll
+D:\C0520G1\Module_2\ArrayList\ArrayList\MyList\obj\Debug\netcoreapp3.1\MyList.pdb
+D:\C0520G1\Module_2\ArrayList\ArrayList\MyList\obj\Debug\netcoreapp3.1\MyList.genruntimeconfig.cache
