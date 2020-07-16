@@ -28,14 +28,22 @@ namespace ManagementRate
         {
             Posts.Remove(id);
 
-            for(int i = id; i <= Posts.Count; i++)
-            {
-                Posts[i].Id = i;
-            }
-           
+            //for (int i = 1; i <= Posts.Count; i++)
+            //{
+            //    if(Posts[i].Id == id)
+            //    {
+            //        for(int j = i; j < Posts.Count; j++)
+            //        {
+            //            Posts[j] = Posts[j + 1];
+            //        }
+            //    }
+            //}
+            //Posts.Remove(Posts.Count - 1);
+
         }
         public void Show()
         {
+            
             foreach(var item in Posts.Values)
             {
                 item.Display();
@@ -50,6 +58,13 @@ namespace ManagementRate
                 {
                     Posts[i].Display();
                 }
+            }
+        }
+        public void AverageRate()
+        {
+            foreach(var item in Posts.Values)
+            {
+                item.CalculatorRate();
             }
         }
         //public int Find(int id)

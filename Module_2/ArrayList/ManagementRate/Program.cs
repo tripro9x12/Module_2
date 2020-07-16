@@ -8,12 +8,49 @@ namespace ManagementRate
         public static int increment = 0;
         static void Main(string[] args)
         {
-            CreatePost();
-            ShowPost();
-            UpdatePost();
-            ShowPost();
-            Rating();
-          
+            int choice;
+            string Y = "Y";
+            while (Y == "Y")
+            {
+                Console.WriteLine("1.Create Post");
+                Console.WriteLine("2.Update Post");
+                Console.WriteLine("3.Remove Post");
+                Console.WriteLine("4.Show Posts");
+                Console.WriteLine("5.Search");
+                Console.WriteLine("6.Rating");
+                Console.WriteLine("7.Exit");
+
+                Console.WriteLine("Moi Ban Nhap So De Lua Chon");
+                choice = Int32.Parse(Console.ReadLine());
+                switch (choice)
+                {
+                    case 1:
+                        CreatePost();
+                        break;
+                    case 2:
+                        UpdatePost();
+                        break;
+                    case 3:
+                        RemovePost();
+                        break;
+                    case 4:
+                        ShowPost();
+                        break;
+                    case 5:
+                        SearchPost();
+                        break;
+                    case 6:
+                        Rating();
+                        break;
+                    case 7:
+                        break;
+                    default:
+                        break;
+                }
+                Console.WriteLine("Nhap Y de tiep tuc, Nhap phim bat ky de thoat.");
+                Y = Console.ReadLine();
+                Console.WriteLine("--------------------------------------");
+            }
         }
 
         public static void CreatePost()
@@ -58,6 +95,8 @@ namespace ManagementRate
         }
         public static void ShowPost()
         {
+            Console.WriteLine($"Id\tTitle\tContent\tAuthor\tCount\tAverageRate");
+            forum.AverageRate();
             forum.Show();
         }
 
@@ -85,6 +124,7 @@ namespace ManagementRate
                 }
             }
         }
+        
 
     }
 }
