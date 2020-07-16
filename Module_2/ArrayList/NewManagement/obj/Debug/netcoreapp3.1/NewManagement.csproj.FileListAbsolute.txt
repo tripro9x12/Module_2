@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\ArrayList\NewManagement\bin\Debug\netcoreapp3.1\NewManagement.exe
+D:\C0520G1\Module_2\ArrayList\NewManagement\bin\Debug\netcoreapp3.1\NewManagement.deps.json
+D:\C0520G1\Module_2\ArrayList\NewManagement\bin\Debug\netcoreapp3.1\NewManagement.runtimeconfig.json
+D:\C0520G1\Module_2\ArrayList\NewManagement\bin\Debug\netcoreapp3.1\NewManagement.runtimeconfig.dev.json
+D:\C0520G1\Module_2\ArrayList\NewManagement\bin\Debug\netcoreapp3.1\NewManagement.dll
+D:\C0520G1\Module_2\ArrayList\NewManagement\bin\Debug\netcoreapp3.1\NewManagement.pdb
+D:\C0520G1\Module_2\ArrayList\NewManagement\obj\Debug\netcoreapp3.1\NewManagement.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\ArrayList\NewManagement\obj\Debug\netcoreapp3.1\NewManagement.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\ArrayList\NewManagement\obj\Debug\netcoreapp3.1\NewManagement.AssemblyInfo.cs
+D:\C0520G1\Module_2\ArrayList\NewManagement\obj\Debug\netcoreapp3.1\NewManagement.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\ArrayList\NewManagement\obj\Debug\netcoreapp3.1\NewManagement.dll
+D:\C0520G1\Module_2\ArrayList\NewManagement\obj\Debug\netcoreapp3.1\NewManagement.pdb
+D:\C0520G1\Module_2\ArrayList\NewManagement\obj\Debug\netcoreapp3.1\NewManagement.genruntimeconfig.cache

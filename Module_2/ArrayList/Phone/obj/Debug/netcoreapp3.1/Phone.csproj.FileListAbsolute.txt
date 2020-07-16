@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\ArrayList\Phone\bin\Debug\netcoreapp3.1\Phone.exe
+D:\C0520G1\Module_2\ArrayList\Phone\bin\Debug\netcoreapp3.1\Phone.deps.json
+D:\C0520G1\Module_2\ArrayList\Phone\bin\Debug\netcoreapp3.1\Phone.runtimeconfig.json
+D:\C0520G1\Module_2\ArrayList\Phone\bin\Debug\netcoreapp3.1\Phone.runtimeconfig.dev.json
+D:\C0520G1\Module_2\ArrayList\Phone\bin\Debug\netcoreapp3.1\Phone.dll
+D:\C0520G1\Module_2\ArrayList\Phone\bin\Debug\netcoreapp3.1\Phone.pdb
+D:\C0520G1\Module_2\ArrayList\Phone\obj\Debug\netcoreapp3.1\Phone.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\ArrayList\Phone\obj\Debug\netcoreapp3.1\Phone.AssemblyInfo.cs
+D:\C0520G1\Module_2\ArrayList\Phone\obj\Debug\netcoreapp3.1\Phone.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\ArrayList\Phone\obj\Debug\netcoreapp3.1\Phone.dll
+D:\C0520G1\Module_2\ArrayList\Phone\obj\Debug\netcoreapp3.1\Phone.pdb
+D:\C0520G1\Module_2\ArrayList\Phone\obj\Debug\netcoreapp3.1\Phone.genruntimeconfig.cache
+D:\C0520G1\Module_2\ArrayList\Phone\obj\Debug\netcoreapp3.1\Phone.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\ArrayList\ManagementRate\bin\Debug\netcoreapp3.1\ManagementRate.exe
+D:\C0520G1\Module_2\ArrayList\ManagementRate\bin\Debug\netcoreapp3.1\ManagementRate.deps.json
+D:\C0520G1\Module_2\ArrayList\ManagementRate\bin\Debug\netcoreapp3.1\ManagementRate.runtimeconfig.json
+D:\C0520G1\Module_2\ArrayList\ManagementRate\bin\Debug\netcoreapp3.1\ManagementRate.runtimeconfig.dev.json
+D:\C0520G1\Module_2\ArrayList\ManagementRate\bin\Debug\netcoreapp3.1\ManagementRate.dll
+D:\C0520G1\Module_2\ArrayList\ManagementRate\bin\Debug\netcoreapp3.1\ManagementRate.pdb
+D:\C0520G1\Module_2\ArrayList\ManagementRate\obj\Debug\netcoreapp3.1\ManagementRate.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\ArrayList\ManagementRate\obj\Debug\netcoreapp3.1\ManagementRate.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\ArrayList\ManagementRate\obj\Debug\netcoreapp3.1\ManagementRate.AssemblyInfo.cs
+D:\C0520G1\Module_2\ArrayList\ManagementRate\obj\Debug\netcoreapp3.1\ManagementRate.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\ArrayList\ManagementRate\obj\Debug\netcoreapp3.1\ManagementRate.dll
+D:\C0520G1\Module_2\ArrayList\ManagementRate\obj\Debug\netcoreapp3.1\ManagementRate.pdb
+D:\C0520G1\Module_2\ArrayList\ManagementRate\obj\Debug\netcoreapp3.1\ManagementRate.genruntimeconfig.cache
