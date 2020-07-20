@@ -1,0 +1,12 @@
+D:\C0520G1\Module_2\ArrayList\List\bin\Debug\netcoreapp3.1\List.exe
+D:\C0520G1\Module_2\ArrayList\List\bin\Debug\netcoreapp3.1\List.deps.json
+D:\C0520G1\Module_2\ArrayList\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.json
+D:\C0520G1\Module_2\ArrayList\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.dev.json
+D:\C0520G1\Module_2\ArrayList\List\bin\Debug\netcoreapp3.1\List.dll
+D:\C0520G1\Module_2\ArrayList\List\bin\Debug\netcoreapp3.1\List.pdb
+D:\C0520G1\Module_2\ArrayList\List\obj\Debug\netcoreapp3.1\List.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\ArrayList\List\obj\Debug\netcoreapp3.1\List.AssemblyInfo.cs
+D:\C0520G1\Module_2\ArrayList\List\obj\Debug\netcoreapp3.1\List.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\ArrayList\List\obj\Debug\netcoreapp3.1\List.dll
+D:\C0520G1\Module_2\ArrayList\List\obj\Debug\netcoreapp3.1\List.pdb
+D:\C0520G1\Module_2\ArrayList\List\obj\Debug\netcoreapp3.1\List.genruntimeconfig.cache
