@@ -8,11 +8,13 @@
   <ItemGroup>
     <Compile Remove="BT_1.cs" />
     <Compile Remove="BT_2.cs" />
+    <Compile Remove="BT_3.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="BT_1.cs" />
     <None Include="BT_2.cs" />
+    <None Include="BT_3.cs" />
   </ItemGroup>
 
 </Project>

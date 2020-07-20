@@ -10,3 +10,4 @@ D:\C0520G1\Module_2\Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.csproj.CoreC
 D:\C0520G1\Module_2\Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.dll
 D:\C0520G1\Module_2\Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.pdb
 D:\C0520G1\Module_2\Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.genruntimeconfig.cache
+D:\C0520G1\Module_2\Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.csprojAssemblyReference.cache
