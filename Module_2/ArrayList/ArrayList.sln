@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList_Linq", "ArrayList
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "List\List.csproj", "{3DD91D7F-C96B-4B24-8617-E33EA9DF205A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{9B7E9129-7854-416A-B59B-76B159AA4570}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{3DD91D7F-C96B-4B24-8617-E33EA9DF205A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DD91D7F-C96B-4B24-8617-E33EA9DF205A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DD91D7F-C96B-4B24-8617-E33EA9DF205A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B7E9129-7854-416A-B59B-76B159AA4570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7E9129-7854-416A-B59B-76B159AA4570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7E9129-7854-416A-B59B-76B159AA4570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7E9129-7854-416A-B59B-76B159AA4570}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+D:\C0520G1\Module_2\ArrayList\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+D:\C0520G1\Module_2\ArrayList\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+D:\C0520G1\Module_2\ArrayList\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+D:\C0520G1\Module_2\ArrayList\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+D:\C0520G1\Module_2\ArrayList\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+D:\C0520G1\Module_2\ArrayList\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+D:\C0520G1\Module_2\ArrayList\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\ArrayList\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+D:\C0520G1\Module_2\ArrayList\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\ArrayList\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+D:\C0520G1\Module_2\ArrayList\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+D:\C0520G1\Module_2\ArrayList\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
