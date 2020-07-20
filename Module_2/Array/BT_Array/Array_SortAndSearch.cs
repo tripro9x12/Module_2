@@ -70,8 +70,10 @@ namespace BT_Array
         public static void CreateArray(ref int[] arr)
         {
             for(int i = 0; i < arr.Length; i++)
-            {            
-                arr[i] = random.Next(30, 60);
+            {
+                //arr[i] = random.Next(30, 60);
+                Console.Write($"arr[{i}]: ");
+                arr[i] = Int32.Parse(Console.ReadLine());
             }
         }
         public static void Show(int[] arr)
