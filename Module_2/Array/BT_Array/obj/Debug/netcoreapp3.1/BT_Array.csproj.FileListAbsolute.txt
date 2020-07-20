@@ -1,0 +1,12 @@
+D:\C0520G1\Module_2\Array\BT_Array\bin\Debug\netcoreapp3.1\BT_Array.exe
+D:\C0520G1\Module_2\Array\BT_Array\bin\Debug\netcoreapp3.1\BT_Array.deps.json
+D:\C0520G1\Module_2\Array\BT_Array\bin\Debug\netcoreapp3.1\BT_Array.runtimeconfig.json
+D:\C0520G1\Module_2\Array\BT_Array\bin\Debug\netcoreapp3.1\BT_Array.runtimeconfig.dev.json
+D:\C0520G1\Module_2\Array\BT_Array\bin\Debug\netcoreapp3.1\BT_Array.dll
+D:\C0520G1\Module_2\Array\BT_Array\bin\Debug\netcoreapp3.1\BT_Array.pdb
+D:\C0520G1\Module_2\Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.AssemblyInfo.cs
+D:\C0520G1\Module_2\Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.dll
+D:\C0520G1\Module_2\Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.pdb
+D:\C0520G1\Module_2\Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.genruntimeconfig.cache
