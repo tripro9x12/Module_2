@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\ArrayList\ArrayList_Linq\bin\Debug\netcoreapp3.1\ArrayList_Linq.exe
+D:\C0520G1\Module_2\ArrayList\ArrayList_Linq\bin\Debug\netcoreapp3.1\ArrayList_Linq.deps.json
+D:\C0520G1\Module_2\ArrayList\ArrayList_Linq\bin\Debug\netcoreapp3.1\ArrayList_Linq.runtimeconfig.json
+D:\C0520G1\Module_2\ArrayList\ArrayList_Linq\bin\Debug\netcoreapp3.1\ArrayList_Linq.runtimeconfig.dev.json
+D:\C0520G1\Module_2\ArrayList\ArrayList_Linq\bin\Debug\netcoreapp3.1\ArrayList_Linq.dll
+D:\C0520G1\Module_2\ArrayList\ArrayList_Linq\bin\Debug\netcoreapp3.1\ArrayList_Linq.pdb
+D:\C0520G1\Module_2\ArrayList\ArrayList_Linq\obj\Debug\netcoreapp3.1\ArrayList_Linq.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\ArrayList\ArrayList_Linq\obj\Debug\netcoreapp3.1\ArrayList_Linq.AssemblyInfo.cs
+D:\C0520G1\Module_2\ArrayList\ArrayList_Linq\obj\Debug\netcoreapp3.1\ArrayList_Linq.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\ArrayList\ArrayList_Linq\obj\Debug\netcoreapp3.1\ArrayList_Linq.dll
+D:\C0520G1\Module_2\ArrayList\ArrayList_Linq\obj\Debug\netcoreapp3.1\ArrayList_Linq.pdb
+D:\C0520G1\Module_2\ArrayList\ArrayList_Linq\obj\Debug\netcoreapp3.1\ArrayList_Linq.genruntimeconfig.cache
+D:\C0520G1\Module_2\ArrayList\ArrayList_Linq\obj\Debug\netcoreapp3.1\ArrayList_Linq.csprojAssemblyReference.cache

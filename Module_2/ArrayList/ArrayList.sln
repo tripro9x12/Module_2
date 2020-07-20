@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManagementStudent", "Manage
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagementBook", "ManagementBook\ManagementBook.csproj", "{2FA52557-53B6-4E6F-9262-AAB122C79C6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList_Linq", "ArrayList_Linq\ArrayList_Linq.csproj", "{E83F2E28-0DF9-4F75-8985-0037C5FE05E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{2FA52557-53B6-4E6F-9262-AAB122C79C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FA52557-53B6-4E6F-9262-AAB122C79C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FA52557-53B6-4E6F-9262-AAB122C79C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E83F2E28-0DF9-4F75-8985-0037C5FE05E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E83F2E28-0DF9-4F75-8985-0037C5FE05E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E83F2E28-0DF9-4F75-8985-0037C5FE05E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E83F2E28-0DF9-4F75-8985-0037C5FE05E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
