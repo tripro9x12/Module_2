@@ -1,0 +1,12 @@
+D:\C0520G1\Module_2\ArrayList\ManagementBook\bin\Debug\netcoreapp3.1\ManagementBook.exe
+D:\C0520G1\Module_2\ArrayList\ManagementBook\bin\Debug\netcoreapp3.1\ManagementBook.deps.json
+D:\C0520G1\Module_2\ArrayList\ManagementBook\bin\Debug\netcoreapp3.1\ManagementBook.runtimeconfig.json
+D:\C0520G1\Module_2\ArrayList\ManagementBook\bin\Debug\netcoreapp3.1\ManagementBook.runtimeconfig.dev.json
+D:\C0520G1\Module_2\ArrayList\ManagementBook\bin\Debug\netcoreapp3.1\ManagementBook.dll
+D:\C0520G1\Module_2\ArrayList\ManagementBook\bin\Debug\netcoreapp3.1\ManagementBook.pdb
+D:\C0520G1\Module_2\ArrayList\ManagementBook\obj\Debug\netcoreapp3.1\ManagementBook.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\ArrayList\ManagementBook\obj\Debug\netcoreapp3.1\ManagementBook.AssemblyInfo.cs
+D:\C0520G1\Module_2\ArrayList\ManagementBook\obj\Debug\netcoreapp3.1\ManagementBook.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\ArrayList\ManagementBook\obj\Debug\netcoreapp3.1\ManagementBook.dll
+D:\C0520G1\Module_2\ArrayList\ManagementBook\obj\Debug\netcoreapp3.1\ManagementBook.pdb
+D:\C0520G1\Module_2\ArrayList\ManagementBook\obj\Debug\netcoreapp3.1\ManagementBook.genruntimeconfig.cache
