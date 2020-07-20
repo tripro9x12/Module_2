@@ -35,5 +35,6 @@ namespace ManagementRate
             }
             averageRate = total / Rates.Length;
         }
+     
     }
 }

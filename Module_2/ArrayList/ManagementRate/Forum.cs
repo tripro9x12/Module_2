@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
 
 namespace ManagementRate
 {
@@ -67,16 +68,8 @@ namespace ManagementRate
                 item.CalculatorRate();
             }
         }
-        //public int Find(int id)
-        //{
-        //    for(int i = 1; i <= Posts.Count; i++)
-        //    {
-        //        if(i+1 == id)
-        //        {
-        //            return i;
-        //        }
-        //    }
-        //    return -1;
-        //}
+
+        
+      
     }
 }
