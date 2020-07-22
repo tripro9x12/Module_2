@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OverflowException_Demo/1.0.0": {
+        "runtime": {
+          "OverflowException_Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OverflowException_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
