@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileNotFoundException_Demo"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatException_Demo", "FormatException_Demo\FormatException_Demo.csproj", "{08A9EE70-B2E7-4C61-B3E1-A5CE2AF706F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvalidOperationException_Demo", "InvalidOperationException_Demo\InvalidOperationException_Demo.csproj", "{42231521-3E44-41E9-BFE9-3A8F98331D29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{08A9EE70-B2E7-4C61-B3E1-A5CE2AF706F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08A9EE70-B2E7-4C61-B3E1-A5CE2AF706F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08A9EE70-B2E7-4C61-B3E1-A5CE2AF706F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42231521-3E44-41E9-BFE9-3A8F98331D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42231521-3E44-41E9-BFE9-3A8F98331D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42231521-3E44-41E9-BFE9-3A8F98331D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42231521-3E44-41E9-BFE9-3A8F98331D29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
