@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOutOfRangeException_De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileNotFoundException_Demo", "FileNotFoundException_Demo\FileNotFoundException_Demo.csproj", "{6B4D7EA0-CD91-4669-8C14-A2571826CB29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatException_Demo", "FormatException_Demo\FormatException_Demo.csproj", "{08A9EE70-B2E7-4C61-B3E1-A5CE2AF706F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6B4D7EA0-CD91-4669-8C14-A2571826CB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B4D7EA0-CD91-4669-8C14-A2571826CB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B4D7EA0-CD91-4669-8C14-A2571826CB29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A9EE70-B2E7-4C61-B3E1-A5CE2AF706F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A9EE70-B2E7-4C61-B3E1-A5CE2AF706F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A9EE70-B2E7-4C61-B3E1-A5CE2AF706F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A9EE70-B2E7-4C61-B3E1-A5CE2AF706F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

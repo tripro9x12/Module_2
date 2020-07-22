@@ -1,0 +1,12 @@
+D:\C0520G1\Module_2\NewException\FormatException_Demo\bin\Debug\netcoreapp3.1\FormatException_Demo.exe
+D:\C0520G1\Module_2\NewException\FormatException_Demo\bin\Debug\netcoreapp3.1\FormatException_Demo.deps.json
+D:\C0520G1\Module_2\NewException\FormatException_Demo\bin\Debug\netcoreapp3.1\FormatException_Demo.runtimeconfig.json
+D:\C0520G1\Module_2\NewException\FormatException_Demo\bin\Debug\netcoreapp3.1\FormatException_Demo.runtimeconfig.dev.json
+D:\C0520G1\Module_2\NewException\FormatException_Demo\bin\Debug\netcoreapp3.1\FormatException_Demo.dll
+D:\C0520G1\Module_2\NewException\FormatException_Demo\bin\Debug\netcoreapp3.1\FormatException_Demo.pdb
+D:\C0520G1\Module_2\NewException\FormatException_Demo\obj\Debug\netcoreapp3.1\FormatException_Demo.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\NewException\FormatException_Demo\obj\Debug\netcoreapp3.1\FormatException_Demo.AssemblyInfo.cs
+D:\C0520G1\Module_2\NewException\FormatException_Demo\obj\Debug\netcoreapp3.1\FormatException_Demo.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\NewException\FormatException_Demo\obj\Debug\netcoreapp3.1\FormatException_Demo.dll
+D:\C0520G1\Module_2\NewException\FormatException_Demo\obj\Debug\netcoreapp3.1\FormatException_Demo.pdb
+D:\C0520G1\Module_2\NewException\FormatException_Demo\obj\Debug\netcoreapp3.1\FormatException_Demo.genruntimeconfig.cache
