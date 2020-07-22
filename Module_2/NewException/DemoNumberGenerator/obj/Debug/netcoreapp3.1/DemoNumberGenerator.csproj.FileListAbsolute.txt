@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\NewException\DemoNumberGenerator\bin\Debug\netcoreapp3.1\DemoNumberGenerator.exe
+D:\C0520G1\Module_2\NewException\DemoNumberGenerator\bin\Debug\netcoreapp3.1\DemoNumberGenerator.deps.json
+D:\C0520G1\Module_2\NewException\DemoNumberGenerator\bin\Debug\netcoreapp3.1\DemoNumberGenerator.runtimeconfig.json
+D:\C0520G1\Module_2\NewException\DemoNumberGenerator\bin\Debug\netcoreapp3.1\DemoNumberGenerator.runtimeconfig.dev.json
+D:\C0520G1\Module_2\NewException\DemoNumberGenerator\bin\Debug\netcoreapp3.1\DemoNumberGenerator.dll
+D:\C0520G1\Module_2\NewException\DemoNumberGenerator\bin\Debug\netcoreapp3.1\DemoNumberGenerator.pdb
+D:\C0520G1\Module_2\NewException\DemoNumberGenerator\obj\Debug\netcoreapp3.1\DemoNumberGenerator.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\NewException\DemoNumberGenerator\obj\Debug\netcoreapp3.1\DemoNumberGenerator.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\NewException\DemoNumberGenerator\obj\Debug\netcoreapp3.1\DemoNumberGenerator.AssemblyInfo.cs
+D:\C0520G1\Module_2\NewException\DemoNumberGenerator\obj\Debug\netcoreapp3.1\DemoNumberGenerator.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\NewException\DemoNumberGenerator\obj\Debug\netcoreapp3.1\DemoNumberGenerator.dll
+D:\C0520G1\Module_2\NewException\DemoNumberGenerator\obj\Debug\netcoreapp3.1\DemoNumberGenerator.pdb
+D:\C0520G1\Module_2\NewException\DemoNumberGenerator\obj\Debug\netcoreapp3.1\DemoNumberGenerator.genruntimeconfig.cache

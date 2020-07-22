@@ -1,0 +1,13 @@
+D:\C0520G1\Module_2\NewException\DemoSentence\bin\Debug\netcoreapp3.1\DemoSentence.exe
+D:\C0520G1\Module_2\NewException\DemoSentence\bin\Debug\netcoreapp3.1\DemoSentence.deps.json
+D:\C0520G1\Module_2\NewException\DemoSentence\bin\Debug\netcoreapp3.1\DemoSentence.runtimeconfig.json
+D:\C0520G1\Module_2\NewException\DemoSentence\bin\Debug\netcoreapp3.1\DemoSentence.runtimeconfig.dev.json
+D:\C0520G1\Module_2\NewException\DemoSentence\bin\Debug\netcoreapp3.1\DemoSentence.dll
+D:\C0520G1\Module_2\NewException\DemoSentence\bin\Debug\netcoreapp3.1\DemoSentence.pdb
+D:\C0520G1\Module_2\NewException\DemoSentence\obj\Debug\netcoreapp3.1\DemoSentence.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\NewException\DemoSentence\obj\Debug\netcoreapp3.1\DemoSentence.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\NewException\DemoSentence\obj\Debug\netcoreapp3.1\DemoSentence.AssemblyInfo.cs
+D:\C0520G1\Module_2\NewException\DemoSentence\obj\Debug\netcoreapp3.1\DemoSentence.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\NewException\DemoSentence\obj\Debug\netcoreapp3.1\DemoSentence.dll
+D:\C0520G1\Module_2\NewException\DemoSentence\obj\Debug\netcoreapp3.1\DemoSentence.pdb
+D:\C0520G1\Module_2\NewException\DemoSentence\obj\Debug\netcoreapp3.1\DemoSentence.genruntimeconfig.cache
