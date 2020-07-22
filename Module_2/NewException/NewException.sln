@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSentence", "DemoSentenc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOutOfRangeException_Demo", "IndexOutOfRangeException_Demo\IndexOutOfRangeException_Demo.csproj", "{B6320F55-AC03-484B-B3AA-B8B9DEB6FF84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileNotFoundException_Demo", "FileNotFoundException_Demo\FileNotFoundException_Demo.csproj", "{6B4D7EA0-CD91-4669-8C14-A2571826CB29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B6320F55-AC03-484B-B3AA-B8B9DEB6FF84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6320F55-AC03-484B-B3AA-B8B9DEB6FF84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6320F55-AC03-484B-B3AA-B8B9DEB6FF84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B4D7EA0-CD91-4669-8C14-A2571826CB29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4D7EA0-CD91-4669-8C14-A2571826CB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4D7EA0-CD91-4669-8C14-A2571826CB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4D7EA0-CD91-4669-8C14-A2571826CB29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
