@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtFile_1", "BtFile_1\BtFile
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtFile_2", "BtFile_2\BtFile_2.csproj", "{EF81B65C-CD48-496E-B865-759482C7BA47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonDemo", "JsonDemo\JsonDemo.csproj", "{9116462E-5026-4672-B061-CDB9C419EB1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EF81B65C-CD48-496E-B865-759482C7BA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF81B65C-CD48-496E-B865-759482C7BA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF81B65C-CD48-496E-B865-759482C7BA47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9116462E-5026-4672-B061-CDB9C419EB1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9116462E-5026-4672-B061-CDB9C419EB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9116462E-5026-4672-B061-CDB9C419EB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9116462E-5026-4672-B061-CDB9C419EB1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

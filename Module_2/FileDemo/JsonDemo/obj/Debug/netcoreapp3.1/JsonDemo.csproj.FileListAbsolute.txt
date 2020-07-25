@@ -1,0 +1,15 @@
+D:\C0520G1\Module_2\FileDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.exe
+D:\C0520G1\Module_2\FileDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\FileDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.AssemblyInfo.cs
+D:\C0520G1\Module_2\FileDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.deps.json
+D:\C0520G1\Module_2\FileDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.runtimeconfig.json
+D:\C0520G1\Module_2\FileDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.runtimeconfig.dev.json
+D:\C0520G1\Module_2\FileDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.dll
+D:\C0520G1\Module_2\FileDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.pdb
+D:\C0520G1\Module_2\FileDemo\JsonDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\C0520G1\Module_2\FileDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\FileDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\FileDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.csproj.CopyComplete
+D:\C0520G1\Module_2\FileDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.dll
+D:\C0520G1\Module_2\FileDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.pdb
+D:\C0520G1\Module_2\FileDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.genruntimeconfig.cache
