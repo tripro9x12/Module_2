@@ -1,0 +1,17 @@
+{
+    "MCoffee": [
+        {
+            "SumAllItems": 256000000,
+            "Table": 3,
+            "PAY": true,
+            "items": [
+                {
+                    "name": "coca",
+                    "money": 16000,
+                    "Count": 16000,
+                    "sum": 256000000
+                }
+            ]
+        }
+    ]
+}

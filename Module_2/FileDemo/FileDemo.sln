@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtJson_1", "BtJson_1\BtJson
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtJson_2", "BtJson_2\BtJson_2.csproj", "{58376313-E020-4DF2-BE54-AF18DA1DAEF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtJson_3", "BtJson_3\BtJson_3.csproj", "{DD172038-6F3E-4E62-A977-DBA0AA02A37D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{58376313-E020-4DF2-BE54-AF18DA1DAEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58376313-E020-4DF2-BE54-AF18DA1DAEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58376313-E020-4DF2-BE54-AF18DA1DAEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD172038-6F3E-4E62-A977-DBA0AA02A37D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD172038-6F3E-4E62-A977-DBA0AA02A37D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD172038-6F3E-4E62-A977-DBA0AA02A37D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD172038-6F3E-4E62-A977-DBA0AA02A37D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
