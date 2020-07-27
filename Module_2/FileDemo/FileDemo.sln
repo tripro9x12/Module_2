@@ -5,11 +5,15 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileDemo", "FileDemo\FileDemo.csproj", "{C00B1B28-9B76-415B-99F8-D8DCD36F50F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtFile_1", "BtFile_1\BtFile_1.csproj", "{AA9AFAD8-34A9-4B96-B834-FF9549867255}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BtFile_1", "BtFile_1\BtFile_1.csproj", "{AA9AFAD8-34A9-4B96-B834-FF9549867255}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtFile_2", "BtFile_2\BtFile_2.csproj", "{EF81B65C-CD48-496E-B865-759482C7BA47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BtFile_2", "BtFile_2\BtFile_2.csproj", "{EF81B65C-CD48-496E-B865-759482C7BA47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonDemo", "JsonDemo\JsonDemo.csproj", "{9116462E-5026-4672-B061-CDB9C419EB1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonDemo", "JsonDemo\JsonDemo.csproj", "{9116462E-5026-4672-B061-CDB9C419EB1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtJson_1", "BtJson_1\BtJson_1.csproj", "{4695615E-1001-47A5-AC9E-930503584973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtJson_2", "BtJson_2\BtJson_2.csproj", "{58376313-E020-4DF2-BE54-AF18DA1DAEF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{9116462E-5026-4672-B061-CDB9C419EB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9116462E-5026-4672-B061-CDB9C419EB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9116462E-5026-4672-B061-CDB9C419EB1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4695615E-1001-47A5-AC9E-930503584973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4695615E-1001-47A5-AC9E-930503584973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4695615E-1001-47A5-AC9E-930503584973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4695615E-1001-47A5-AC9E-930503584973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58376313-E020-4DF2-BE54-AF18DA1DAEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58376313-E020-4DF2-BE54-AF18DA1DAEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58376313-E020-4DF2-BE54-AF18DA1DAEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58376313-E020-4DF2-BE54-AF18DA1DAEF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

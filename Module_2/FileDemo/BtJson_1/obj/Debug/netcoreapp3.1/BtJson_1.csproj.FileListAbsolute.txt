@@ -1,0 +1,15 @@
+D:\C0520G1\Module_2\FileDemo\BtJson_1\bin\Debug\netcoreapp3.1\BtJson_1.exe
+D:\C0520G1\Module_2\FileDemo\BtJson_1\obj\Debug\netcoreapp3.1\BtJson_1.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\FileDemo\BtJson_1\obj\Debug\netcoreapp3.1\BtJson_1.AssemblyInfo.cs
+D:\C0520G1\Module_2\FileDemo\BtJson_1\bin\Debug\netcoreapp3.1\BtJson_1.deps.json
+D:\C0520G1\Module_2\FileDemo\BtJson_1\bin\Debug\netcoreapp3.1\BtJson_1.runtimeconfig.json
+D:\C0520G1\Module_2\FileDemo\BtJson_1\bin\Debug\netcoreapp3.1\BtJson_1.runtimeconfig.dev.json
+D:\C0520G1\Module_2\FileDemo\BtJson_1\bin\Debug\netcoreapp3.1\BtJson_1.dll
+D:\C0520G1\Module_2\FileDemo\BtJson_1\bin\Debug\netcoreapp3.1\BtJson_1.pdb
+D:\C0520G1\Module_2\FileDemo\BtJson_1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\C0520G1\Module_2\FileDemo\BtJson_1\obj\Debug\netcoreapp3.1\BtJson_1.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\FileDemo\BtJson_1\obj\Debug\netcoreapp3.1\BtJson_1.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\FileDemo\BtJson_1\obj\Debug\netcoreapp3.1\BtJson_1.csproj.CopyComplete
+D:\C0520G1\Module_2\FileDemo\BtJson_1\obj\Debug\netcoreapp3.1\BtJson_1.dll
+D:\C0520G1\Module_2\FileDemo\BtJson_1\obj\Debug\netcoreapp3.1\BtJson_1.pdb
+D:\C0520G1\Module_2\FileDemo\BtJson_1\obj\Debug\netcoreapp3.1\BtJson_1.genruntimeconfig.cache
