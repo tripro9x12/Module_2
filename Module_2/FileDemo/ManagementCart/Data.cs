@@ -9,7 +9,7 @@ namespace ManagementCart
         public List<MProduct> Cart { get; set; }
         public int IndexNameProduct(string name)
         {       
-            for(int i = 0;i<Cart.Count;i++)
+            for(int i = 1;i<=Cart.Count;i++)
             {
                 if(Cart[i].Name == name)
                 {

@@ -121,9 +121,16 @@ namespace ManagementCart
         public static void SeeProductInCart(Data data)
         {
             Console.WriteLine($"Name\t\t\tCount\t\tMoneyInOneProduct\tSum");
-            foreach(var item in data.Cart)
+            try
             {
-                Console.WriteLine(item.ToString());
+                foreach (var item in data.Cart)
+                {
+                    Console.WriteLine(item.ToString());
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.GetType().Name);
             }
             
         }
@@ -131,12 +138,19 @@ namespace ManagementCart
         {
             Console.WriteLine("Enter Name Product Remove: ");
             string name = Console.ReadLine().ToUpper();
-            int pos = data.IndexNameProduct(name);
-            data.Cart.RemoveAt(pos);
-            using(StreamWriter sw = File.CreateText(input))
+            try
             {
-                var result = JsonConvert.SerializeObject(data);
-                sw.WriteLine(result);
+                int pos = data.IndexNameProduct(name);
+                data.Cart.RemoveAt(pos);
+                using (StreamWriter sw = File.CreateText(input))
+                {
+                    var result = JsonConvert.SerializeObject(data);
+                    sw.WriteLine(result);
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.GetType().Name);
             }
         }
         public static void Pay(string input,string output,Data data)
