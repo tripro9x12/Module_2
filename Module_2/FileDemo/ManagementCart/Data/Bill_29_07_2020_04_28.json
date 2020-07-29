@@ -1,0 +1,19 @@
+{
+    "SumAllProduct": 33900000,
+    "Pay": true,
+    "Time": "2020-07-29T16:29:32.8324101+07:00",
+    "Cart": [
+        {
+            "Name": "IPHONE 10",
+            "Money": 7900000,
+            "Count": 1,
+            "sum": 7900000
+        },
+        {
+            "Name": "IPHONE XS",
+            "Money": 13000000,
+            "Count": 2,
+            "sum": 26000000
+        }
+    ]
+}

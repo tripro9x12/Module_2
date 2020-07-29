@@ -17,6 +17,7 @@ namespace ManagementCart
             return total;
         }
         public bool Pay => true;
+        public string DateTimePay => DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss");
     }
 }
    

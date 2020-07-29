@@ -1,0 +1,13 @@
+{
+    "SumAllProduct": 10000,
+    "Pay": true,
+    "DateTimePay": "29/07/2020 16:37:47",
+    "Cart": [
+        {
+            "Name": "IPHONE",
+            "Money": 10000,
+            "Count": 1,
+            "sum": 10000
+        }
+    ]
+}

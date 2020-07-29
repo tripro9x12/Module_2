@@ -1,0 +1,25 @@
+{
+    "SumAllProduct": 1296000,
+    "Pay": true,
+    "DateTimePay": "29/07/2020 16:40:02",
+    "Cart": [
+        {
+            "Name": "JEANS",
+            "Money": 199000,
+            "Count": 2,
+            "sum": 398000
+        },
+        {
+            "Name": "QUAN KAKI",
+            "Money": 290000,
+            "Count": 2,
+            "sum": 580000
+        },
+        {
+            "Name": "ÁO SO MI",
+            "Money": 159000,
+            "Count": 2,
+            "sum": 318000
+        }
+    ]
+}
