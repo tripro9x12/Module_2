@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BtFile_2", "BtFile_2\BtFile
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonDemo", "JsonDemo\JsonDemo.csproj", "{9116462E-5026-4672-B061-CDB9C419EB1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtJson_1", "BtJson_1\BtJson_1.csproj", "{4695615E-1001-47A5-AC9E-930503584973}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BtJson_1", "BtJson_1\BtJson_1.csproj", "{4695615E-1001-47A5-AC9E-930503584973}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtJson_2", "BtJson_2\BtJson_2.csproj", "{58376313-E020-4DF2-BE54-AF18DA1DAEF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BtJson_2", "BtJson_2\BtJson_2.csproj", "{58376313-E020-4DF2-BE54-AF18DA1DAEF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtJson_3", "BtJson_3\BtJson_3.csproj", "{DD172038-6F3E-4E62-A977-DBA0AA02A37D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BtJson_3", "BtJson_3\BtJson_3.csproj", "{DD172038-6F3E-4E62-A977-DBA0AA02A37D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagementCart", "ManagementCart\ManagementCart.csproj", "{676EF280-1CCB-4C8D-964C-68E5BAC029B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{DD172038-6F3E-4E62-A977-DBA0AA02A37D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD172038-6F3E-4E62-A977-DBA0AA02A37D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD172038-6F3E-4E62-A977-DBA0AA02A37D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676EF280-1CCB-4C8D-964C-68E5BAC029B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676EF280-1CCB-4C8D-964C-68E5BAC029B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676EF280-1CCB-4C8D-964C-68E5BAC029B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676EF280-1CCB-4C8D-964C-68E5BAC029B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
