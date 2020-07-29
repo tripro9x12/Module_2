@@ -1,1 +1,29 @@
-{"MCoffee":[{"SumAllItems":72000,"Table":2,"PAY":true,"items":[{"name":"suoi","money":10000,"Count":2,"sum":20000},{"name":"coca","money":16000,"Count":2,"sum":32000},{"name":"bimbim","money":10000,"Count":2,"sum":20000}]}]}
+{
+    "MCoffee": [
+        {
+            "SumAllItems": 72000,
+            "Table": 2,
+            "PAY": true,
+            "items": [
+                {
+                    "name": "suoi",
+                    "money": 10000,
+                    "Count": 2,
+                    "sum": 20000
+                },
+                {
+                    "name": "coca",
+                    "money": 16000,
+                    "Count": 2,
+                    "sum": 32000
+                },
+                {
+                    "name": "bimbim",
+                    "money": 10000,
+                    "Count": 2,
+                    "sum": 20000
+                }
+            ]
+        }
+    ]
+}
