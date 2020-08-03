@@ -1,0 +1,25 @@
+{
+    "odersCode": "02",
+    "nameCustomer": "Huynh B",
+    "address": "HaNoi",
+    "phone": "0863216587",
+    "status": "isPay",
+    "dateTime": "03-08-2020 15:46:43",
+    "product": [
+        {
+            "code": "c01",
+            "name": "coca",
+            "count": 3,
+            "price": 10000,
+            "sumPrice": 30000
+        },
+        {
+            "code": "str01",
+            "name": "strongbow",
+            "count": 3,
+            "price": 20000,
+            "sumPrice": 60000
+        }
+    ],
+    "sumAllProduct": 90000
+}

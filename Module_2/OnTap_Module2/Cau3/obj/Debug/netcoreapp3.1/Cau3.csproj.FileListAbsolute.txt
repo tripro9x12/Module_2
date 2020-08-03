@@ -1,0 +1,15 @@
+D:\C0520G1\Module_2\OnTap_Module2\Cau3\bin\Debug\netcoreapp3.1\Cau3.exe
+D:\C0520G1\Module_2\OnTap_Module2\Cau3\obj\Debug\netcoreapp3.1\Cau3.csprojAssemblyReference.cache
+D:\C0520G1\Module_2\OnTap_Module2\Cau3\obj\Debug\netcoreapp3.1\Cau3.AssemblyInfoInputs.cache
+D:\C0520G1\Module_2\OnTap_Module2\Cau3\obj\Debug\netcoreapp3.1\Cau3.AssemblyInfo.cs
+D:\C0520G1\Module_2\OnTap_Module2\Cau3\bin\Debug\netcoreapp3.1\Cau3.deps.json
+D:\C0520G1\Module_2\OnTap_Module2\Cau3\bin\Debug\netcoreapp3.1\Cau3.runtimeconfig.json
+D:\C0520G1\Module_2\OnTap_Module2\Cau3\bin\Debug\netcoreapp3.1\Cau3.runtimeconfig.dev.json
+D:\C0520G1\Module_2\OnTap_Module2\Cau3\bin\Debug\netcoreapp3.1\Cau3.dll
+D:\C0520G1\Module_2\OnTap_Module2\Cau3\bin\Debug\netcoreapp3.1\Cau3.pdb
+D:\C0520G1\Module_2\OnTap_Module2\Cau3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\C0520G1\Module_2\OnTap_Module2\Cau3\obj\Debug\netcoreapp3.1\Cau3.csproj.CoreCompileInputs.cache
+D:\C0520G1\Module_2\OnTap_Module2\Cau3\obj\Debug\netcoreapp3.1\Cau3.csproj.CopyComplete
+D:\C0520G1\Module_2\OnTap_Module2\Cau3\obj\Debug\netcoreapp3.1\Cau3.dll
+D:\C0520G1\Module_2\OnTap_Module2\Cau3\obj\Debug\netcoreapp3.1\Cau3.pdb
+D:\C0520G1\Module_2\OnTap_Module2\Cau3\obj\Debug\netcoreapp3.1\Cau3.genruntimeconfig.cache

@@ -1,0 +1,55 @@
+{
+    "emailOfManagement": "ADMIN",
+    "password": "12345",
+    "member": [
+        {
+            "name": "Tri",
+            "email": "tri0301@gmail.com",
+            "password": "123456",
+            "phone": "0839875641",
+            "address": "131 Tran Phu - Hue"
+        }
+    ],
+    "oders": [
+        {
+            "odersCode": "03",
+            "nameCustomer": "Huynh Van C",
+            "address": "131 Tran Phu - Hue",
+            "phone": "0632145365",
+            "status": "accept the application",
+            "dateTime": "03-08-2020 15:46:43",
+            "product": [
+                {
+                    "code": "c01",
+                    "name": "coca",
+                    "count": 4,
+                    "price": 10000,
+                    "sumPrice": 40000
+                }
+            ],
+            "sumAllProduct": 40000
+        }
+    ],
+    "ProductAll": [
+        {
+            "code": "c01",
+            "name": "coca",
+            "count": 93,
+            "priceIn": 8000,
+            "priceOut": 10000,
+            "sumPriceIn": 744000,
+            "sumPriceOut": 930000,
+            "excessCash": 186000
+        },
+        {
+            "code": "str01",
+            "name": "strongbow",
+            "count": 97,
+            "priceIn": 16000,
+            "priceOut": 20000,
+            "sumPriceIn": 1552000,
+            "sumPriceOut": 1940000,
+            "excessCash": 388000
+        }
+    ]
+}
